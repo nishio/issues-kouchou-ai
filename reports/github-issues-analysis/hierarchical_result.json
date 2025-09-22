@@ -1,0 +1,7443 @@
+{
+  "arguments": [
+    {
+      "arg_id": "A701_0",
+      "argument": "クライアントコードにおけるLintエラーが解消されていない",
+      "x": 6.8728857,
+      "y": 0.8713336,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_10",
+        "2_34"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/701"
+    },
+    {
+      "arg_id": "A701_1",
+      "argument": "コードのフォーマットやスタイルが一貫していない",
+      "x": 7.8299136,
+      "y": 2.208614,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_10",
+        "2_32"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/701"
+    },
+    {
+      "arg_id": "A701_2",
+      "argument": "型安全性が確保されていない箇所が存在する",
+      "x": 7.99,
+      "y": 1.8402396,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_10",
+        "2_57"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/701"
+    },
+    {
+      "arg_id": "A701_3",
+      "argument": "技術的負債が蓄積しているため、メンテナンス性が低下している",
+      "x": 8.749414,
+      "y": 2.3823814,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_7",
+        "2_72"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/701"
+    },
+    {
+      "arg_id": "A700_0",
+      "argument": "biomeの動作不良が開発に影響を与えている",
+      "x": 8.732436,
+      "y": 2.685767,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_7",
+        "2_75"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/700"
+    },
+    {
+      "arg_id": "A700_1",
+      "argument": "package.jsonの依存関係が適切に管理されていない",
+      "x": 9.313713,
+      "y": 2.305925,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_6",
+        "2_94"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/700"
+    },
+    {
+      "arg_id": "A700_2",
+      "argument": "環境変数の設定が不完全である",
+      "x": 9.23357,
+      "y": 2.9112148,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_6",
+        "2_64"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/700"
+    },
+    {
+      "arg_id": "A700_3",
+      "argument": "依存関係のインストール手順が明確でない",
+      "x": 9.77697,
+      "y": 2.4502542,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_6",
+        "2_46"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/700"
+    },
+    {
+      "arg_id": "A696_0",
+      "argument": "広聴AIのレポート解釈に関する誤解を防ぐ必要がある",
+      "x": 8.261428,
+      "y": -0.7044394,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_10",
+        "2_10"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/696"
+    },
+    {
+      "arg_id": "A696_1",
+      "argument": "一般ユーザーに向けたデータ分析の前提知識が不足している",
+      "x": 5.0396953,
+      "y": 1.1165214,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_9",
+        "2_69"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/696"
+    },
+    {
+      "arg_id": "A696_2",
+      "argument": "広聴AIの性質やデータの読み方についての説明が不十分である",
+      "x": 8.256273,
+      "y": -0.7484251,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_10",
+        "2_10"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/696"
+    },
+    {
+      "arg_id": "A696_3",
+      "argument": "データ分析ツールの誤解を招く表現が問題である",
+      "x": 8.163893,
+      "y": 4.819149,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_8",
+        "2_48"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/696"
+    },
+    {
+      "arg_id": "A696_4",
+      "argument": "有権者向けと内部利用向けの情報提供の方針を明確に分ける必要がある",
+      "x": 4.7719502,
+      "y": 2.080846,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_2",
+        "2_2"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/696"
+    },
+    {
+      "arg_id": "A690_0",
+      "argument": "ts-node-devがメンテナンスされていないため、代替パッケージへの移行が必要である",
+      "x": 9.048897,
+      "y": 2.5010056,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_7",
+        "2_25"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/690"
+    },
+    {
+      "arg_id": "A690_1",
+      "argument": "依存しているパッケージのメンテナンス状況がプロジェクトの安定性に影響を与える可能性がある",
+      "x": 8.980178,
+      "y": 2.5257423,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_7",
+        "2_25"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/690"
+    },
+    {
+      "arg_id": "A690_2",
+      "argument": "信頼性の高いツールを使用することが重要である",
+      "x": 6.1803193,
+      "y": 4.4465585,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_4",
+        "2_23"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/690"
+    },
+    {
+      "arg_id": "A685_0",
+      "argument": "リモート環境でのHTTPアクセス時に発生するJavaScriptエラーがアプリケーションの正常動作を妨げている",
+      "x": 7.4648056,
+      "y": 1.3841833,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_10",
+        "2_56"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/685"
+    },
+    {
+      "arg_id": "A685_1",
+      "argument": "厳格なContent Security Policy (CSP)がリソースの読み込みを妨げている",
+      "x": 7.765553,
+      "y": 1.6625944,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_10",
+        "2_57"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/685"
+    },
+    {
+      "arg_id": "A685_2",
+      "argument": "画像URLの生成ロジックに不具合があり、正しく機能していない",
+      "x": 7.423766,
+      "y": 1.5292382,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_10",
+        "2_56"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/685"
+    },
+    {
+      "arg_id": "A683_0",
+      "argument": "公開状態のレポートがない場合に静的ファイル出力ができない問題がある",
+      "x": 4.5609574,
+      "y": 3.766616,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_1",
+        "2_84"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/683"
+    },
+    {
+      "arg_id": "A683_1",
+      "argument": "エラーメッセージが不適切であるため、ユーザーに対する情報提供が不足している",
+      "x": 5.779646,
+      "y": 0.31129143,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_9",
+        "2_80"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/683"
+    },
+    {
+      "arg_id": "A683_2",
+      "argument": "公開状態にかかわらず静的レポートを出力できる機能が求められている",
+      "x": 4.3349066,
+      "y": 3.779381,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_1",
+        "2_84"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/683"
+    },
+    {
+      "arg_id": "A682_0",
+      "argument": "DD2030 の Azure 環境へのデプロイが失敗する問題が発生している",
+      "x": 9.752896,
+      "y": 2.123095,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_6",
+        "2_63"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/682"
+    },
+    {
+      "arg_id": "A682_1",
+      "argument": "マージ時の自動デプロイ機能が正常に機能していない",
+      "x": 8.159143,
+      "y": 2.8717291,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_7",
+        "2_14"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/682"
+    },
+    {
+      "arg_id": "A682_2",
+      "argument": "Azure 環境の設定や認証に関する問題が存在する",
+      "x": 9.681849,
+      "y": 2.0098455,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_6",
+        "2_63"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/682"
+    },
+    {
+      "arg_id": "A681_0",
+      "argument": "ユーザーが入力したAPIキーの有効性を確認できない問題がある",
+      "x": 8.068356,
+      "y": 1.0804895,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_10",
+        "2_95"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/681"
+    },
+    {
+      "arg_id": "A681_1",
+      "argument": "API接続チェック機能の改善が必要である",
+      "x": 7.7814307,
+      "y": 2.7702067,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_7",
+        "2_77"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/681"
+    },
+    {
+      "arg_id": "A679_0",
+      "argument": "意見を任意のカテゴリーで分類する機能が必要である",
+      "x": 5.381163,
+      "y": 3.3695974,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_3",
+        "2_82"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/679"
+    },
+    {
+      "arg_id": "A679_1",
+      "argument": "現在の広聴AIにおいて、過去の機能が活用されていないため、再実装が求められている",
+      "x": 8.27786,
+      "y": -0.6950822,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_10",
+        "2_10"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/679"
+    },
+    {
+      "arg_id": "A679_2",
+      "argument": "ユーザーのニーズに応じた機能改善が必要である",
+      "x": 5.732002,
+      "y": 2.2254453,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_9",
+        "2_43"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/679"
+    },
+    {
+      "arg_id": "A669_0",
+      "argument": "現在のデプロイ処理の最適化が不十分である",
+      "x": 7.4731207,
+      "y": 3.369146,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_8",
+        "2_20"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/669"
+    },
+    {
+      "arg_id": "A669_1",
+      "argument": "ビルドとデプロイの責務が明確に分かれていない",
+      "x": 9.736058,
+      "y": 3.1098561,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_6",
+        "2_4"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/669"
+    },
+    {
+      "arg_id": "A669_2",
+      "argument": "複数コンテナのビルドプロセスが適切に管理されていない",
+      "x": 9.839395,
+      "y": 3.2010586,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_6",
+        "2_4"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/669"
+    },
+    {
+      "arg_id": "A666_0",
+      "argument": "Windows 環境でのビルドエラーが発生している",
+      "x": 10.224715,
+      "y": 2.4140577,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_6",
+        "2_13"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/666"
+    },
+    {
+      "arg_id": "A666_1",
+      "argument": "Dockerfileの記述がWindows環境でのビルドに適していない",
+      "x": 10.501406,
+      "y": 2.740394,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_6",
+        "2_28"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/666"
+    },
+    {
+      "arg_id": "A666_2",
+      "argument": "特定の環境設定に依存したビルドプロセスの改善が必要である",
+      "x": 9.575796,
+      "y": 3.115316,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_6",
+        "2_4"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/666"
+    },
+    {
+      "arg_id": "A648_0",
+      "argument": "管理画面でのレポート操作の効率が低い",
+      "x": 3.8589768,
+      "y": 3.3261163,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_1",
+        "2_98"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/648"
+    },
+    {
+      "arg_id": "A648_1",
+      "argument": "複数レポートの一括編集機能が不足している",
+      "x": 3.8450155,
+      "y": 3.668446,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_1",
+        "2_73"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/648"
+    },
+    {
+      "arg_id": "A648_2",
+      "argument": "ユーザーがレポートを管理する際の利便性が向上する必要がある",
+      "x": 3.9100718,
+      "y": 3.03116,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_1",
+        "2_33"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/648"
+    },
+    {
+      "arg_id": "A643_0",
+      "argument": "シークレット値の渡し方にセキュリティ上の課題がある",
+      "x": 8.044297,
+      "y": 1.6262378,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_10",
+        "2_57"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/643"
+    },
+    {
+      "arg_id": "A643_1",
+      "argument": "Docker BuildKitの機能を活用することでセキュリティを強化すべきである",
+      "x": 10.566738,
+      "y": 2.8756416,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_6",
+        "2_28"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/643"
+    },
+    {
+      "arg_id": "A643_2",
+      "argument": "ビルドログへのシークレット情報の露出を防ぐ必要がある",
+      "x": 9.683872,
+      "y": 3.204438,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_6",
+        "2_4"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/643"
+    },
+    {
+      "arg_id": "A641_0",
+      "argument": "レポート完成時の通知機能が必要である",
+      "x": 3.886806,
+      "y": 3.6475873,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_1",
+        "2_73"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/641"
+    },
+    {
+      "arg_id": "A641_1",
+      "argument": "Windows環境での通知機能の実装が難しい",
+      "x": 10.250475,
+      "y": 2.0867944,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_6",
+        "2_13"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/641"
+    },
+    {
+      "arg_id": "A641_2",
+      "argument": "OS依存の問題が解決されていない",
+      "x": 9.42116,
+      "y": 2.2668998,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_6",
+        "2_94"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/641"
+    },
+    {
+      "arg_id": "A639_0",
+      "argument": "CSVファイルのタイトル自動入力機能が不足している",
+      "x": 7.3716373,
+      "y": 2.1107996,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_7",
+        "2_67"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/639"
+    },
+    {
+      "arg_id": "A639_1",
+      "argument": "ユーザーの手間を減らすための改善が必要である",
+      "x": 5.8808336,
+      "y": 2.21225,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_9",
+        "2_43"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/639"
+    },
+    {
+      "arg_id": "A639_2",
+      "argument": "ファイル名をタイトルに反映させることで誤操作を防ぐ必要がある",
+      "x": 7.163994,
+      "y": 2.1051185,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_7",
+        "2_67"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/639"
+    },
+    {
+      "arg_id": "A638_0",
+      "argument": "データ点群の重心位置にラベルがあることで視認性が低下している",
+      "x": 5.2152243,
+      "y": 2.7488985,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_2",
+        "2_17"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/638"
+    },
+    {
+      "arg_id": "A638_1",
+      "argument": "ラベル同士の重なりが視認性をさらに悪化させている",
+      "x": 5.191282,
+      "y": 2.7527764,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_2",
+        "2_17"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/638"
+    },
+    {
+      "arg_id": "A634_0",
+      "argument": "Geminiを利用したレポート生成の機会が不足している",
+      "x": 5.1673517,
+      "y": 4.639856,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_4",
+        "2_16"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/634"
+    },
+    {
+      "arg_id": "A634_1",
+      "argument": "自治体におけるGeminiの活用が促進されていない",
+      "x": 5.4263616,
+      "y": 4.7159996,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_4",
+        "2_16"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/634"
+    },
+    {
+      "arg_id": "A634_2",
+      "argument": "APIキーの統合管理が不十分である",
+      "x": 8.112819,
+      "y": 1.2251682,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_10",
+        "2_22"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/634"
+    },
+    {
+      "arg_id": "A631_0",
+      "argument": "ビルドプロセス中に警告が発生することが望ましくない",
+      "x": 9.732372,
+      "y": 3.1150606,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_6",
+        "2_4"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/631"
+    },
+    {
+      "arg_id": "A631_1",
+      "argument": "未定義の環境変数に関する警告が出ることが問題である",
+      "x": 9.334182,
+      "y": 2.881206,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_6",
+        "2_64"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/631"
+    },
+    {
+      "arg_id": "A631_2",
+      "argument": "ビルドの正常性を確保するために警告を解消する必要がある",
+      "x": 9.6817,
+      "y": 3.18206,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_6",
+        "2_4"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/631"
+    },
+    {
+      "arg_id": "A629_0",
+      "argument": "「限定公開」「非公開」状態のレポートがバックアップできない問題がある",
+      "x": 4.413086,
+      "y": 3.928864,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_1",
+        "2_84"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/629"
+    },
+    {
+      "arg_id": "A629_1",
+      "argument": "レポートの公開状態に関わらず、全てのレポートをバックアップする必要がある",
+      "x": 4.157284,
+      "y": 3.9453826,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_1",
+        "2_15"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/629"
+    },
+    {
+      "arg_id": "A629_2",
+      "argument": "Azure 環境でのレポートバックアップ機能が不完全である",
+      "x": 4.3244524,
+      "y": 4.146993,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_1",
+        "2_49"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/629"
+    },
+    {
+      "arg_id": "A622_0",
+      "argument": "エンジニア以外の関係者が機能確認を行うための環境が不足している",
+      "x": 8.8723755,
+      "y": 2.8123121,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_7",
+        "2_75"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/622"
+    },
+    {
+      "arg_id": "A622_1",
+      "argument": "ユーザーが広聴AIを簡単に試すことができない状況がある",
+      "x": 8.209302,
+      "y": -0.8202838,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_10",
+        "2_10"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/622"
+    },
+    {
+      "arg_id": "A622_2",
+      "argument": "動作確認やデモ環境の整備が必要である",
+      "x": 9.006368,
+      "y": 3.1753683,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_8",
+        "2_71"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/622"
+    },
+    {
+      "arg_id": "A613_0",
+      "argument": "現状の広聴AIのセットアップにテクニカルスキルが必要であり、利用のハードルが高い",
+      "x": 8.22116,
+      "y": -0.7089927,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_10",
+        "2_10"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/613"
+    },
+    {
+      "arg_id": "A613_1",
+      "argument": "ユーザーが簡単に広聴AIを試せる環境が整っていない",
+      "x": 8.311832,
+      "y": -0.6701626,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_10",
+        "2_10"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/613"
+    },
+    {
+      "arg_id": "A613_2",
+      "argument": "API Keyを使ったレポート生成機能が不足している",
+      "x": 7.954116,
+      "y": 1.0858837,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_10",
+        "2_95"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/613"
+    },
+    {
+      "arg_id": "A592_0",
+      "argument": "Azure OpenAI Serviceのエラーハンドリングが不十分である",
+      "x": 8.994793,
+      "y": 0.4217527,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_10",
+        "2_5"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/592"
+    },
+    {
+      "arg_id": "A592_1",
+      "argument": "ユーザーがエラーの原因を特定するのに時間がかかる",
+      "x": 6.22531,
+      "y": 0.59303343,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_9",
+        "2_61"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/592"
+    },
+    {
+      "arg_id": "A592_2",
+      "argument": "エラーメッセージがユーザーフレンドリーでないため、改善が必要である",
+      "x": 6.020716,
+      "y": 0.31821385,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_9",
+        "2_80"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/592"
+    },
+    {
+      "arg_id": "A586_0",
+      "argument": "フロントエンドのデザインシステムが整備されておらず、複数のサービスでの再利用が困難である",
+      "x": 7.4955606,
+      "y": 3.6270537,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_8",
+        "2_20"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/586"
+    },
+    {
+      "arg_id": "A586_1",
+      "argument": "同じコンポーネントが複数のサービスで二重に実装されており、効率が悪い",
+      "x": 7.6051774,
+      "y": 3.835471,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_8",
+        "2_60"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/586"
+    },
+    {
+      "arg_id": "A586_2",
+      "argument": "依存関係を管理する仕組みが不足しているため、コードの保守性が低下している",
+      "x": 8.80699,
+      "y": 2.3411524,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_7",
+        "2_72"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/586"
+    },
+    {
+      "arg_id": "A584_0",
+      "argument": "レポート編集や意見グループ編集時にトークン使用量や推定コストが正しく反映されない問題がある",
+      "x": 3.7798145,
+      "y": 3.4634442,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_1",
+        "2_98"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/584"
+    },
+    {
+      "arg_id": "A584_1",
+      "argument": "データの整合性が保たれていないため、リンク情報が消失する可能性がある",
+      "x": 8.270746,
+      "y": 4.5112705,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_8",
+        "2_81"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/584"
+    },
+    {
+      "arg_id": "A583_0",
+      "argument": "分析対象のカラムに空文字が含まれることによるエラー処理が不十分である",
+      "x": 6.8900437,
+      "y": 1.1094359,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_10",
+        "2_34"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/583"
+    },
+    {
+      "arg_id": "A583_1",
+      "argument": "空行やスペースのみのデータに対する対応が必要である",
+      "x": 8.009501,
+      "y": 4.317884,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_8",
+        "2_31"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/583"
+    },
+    {
+      "arg_id": "A583_2",
+      "argument": "属性フィルタやカテゴリ値におけるnull値の処理が欠如している",
+      "x": 4.9933066,
+      "y": 2.6398578,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_2",
+        "2_17"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/583"
+    },
+    {
+      "arg_id": "A577_0",
+      "argument": "自動クラスタ数調整機能の実用性が不明である",
+      "x": 7.027367,
+      "y": 6.0701466,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_4",
+        "2_18"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/577"
+    },
+    {
+      "arg_id": "A577_1",
+      "argument": "APIパラメータの複雑さがユーザーにとっての障壁となる可能性がある",
+      "x": 6.5582685,
+      "y": 0.16869368,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_9",
+        "2_51"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/577"
+    },
+    {
+      "arg_id": "A577_2",
+      "argument": "シルエットスコアに基づく調整の効果を実証する必要がある",
+      "x": 7.260989,
+      "y": 5.0700636,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_8",
+        "2_59"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/577"
+    },
+    {
+      "arg_id": "A577_3",
+      "argument": "ユーザーフィードバックを通じて機能の改善点を把握する必要がある",
+      "x": 5.7373776,
+      "y": 2.1911087,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_9",
+        "2_43"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/577"
+    },
+    {
+      "arg_id": "A576_0",
+      "argument": "TTTCのプロンプトを活用することで、機能の向上を図りたい",
+      "x": 6.4695196,
+      "y": 2.8933015,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_3",
+        "2_12"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/576"
+    },
+    {
+      "arg_id": "A576_1",
+      "argument": "他のプロンプトの工夫を参考にして、適用可能な部分を模倣したい",
+      "x": 6.463855,
+      "y": 2.9256153,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_3",
+        "2_12"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/576"
+    },
+    {
+      "arg_id": "A576_2",
+      "argument": "特定の利用用途に応じたプロンプトのカスタマイズが必要である",
+      "x": 6.605699,
+      "y": 2.6363256,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_3",
+        "2_12"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/576"
+    },
+    {
+      "arg_id": "A573_0",
+      "argument": "日本語特化の埋め込みモデルの性能を評価する必要がある",
+      "x": 6.7129498,
+      "y": 5.1517296,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_4",
+        "2_8"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/573"
+    },
+    {
+      "arg_id": "A573_1",
+      "argument": "現在の埋め込みモデルとの比較を通じて改善点を見つけたい",
+      "x": 6.6511827,
+      "y": 5.021494,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_4",
+        "2_99"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/573"
+    },
+    {
+      "arg_id": "A573_2",
+      "argument": "埋め込みモデルの交換可能性を検討する必要がある",
+      "x": 6.5399013,
+      "y": 5.1139293,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_4",
+        "2_99"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/573"
+    },
+    {
+      "arg_id": "A566_0",
+      "argument": "データの有無に応じたUIパターンの確認が手間である",
+      "x": 5.890064,
+      "y": 2.933297,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_3",
+        "2_83"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/566"
+    },
+    {
+      "arg_id": "A566_1",
+      "argument": "デザイナーがUIを確認する際にデータの操作が必要で不便である",
+      "x": 5.7901926,
+      "y": 2.750393,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_3",
+        "2_83"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/566"
+    },
+    {
+      "arg_id": "A566_2",
+      "argument": "UIパターンを効率的に確認するためのツールが不足している",
+      "x": 6.328961,
+      "y": 4.290668,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_4",
+        "2_23"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/566"
+    },
+    {
+      "arg_id": "A566_3",
+      "argument": "Storybookなどのカタログ化ツールの導入が必要である",
+      "x": 5.964611,
+      "y": 4.3692684,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_4",
+        "2_85"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/566"
+    },
+    {
+      "arg_id": "A564_0",
+      "argument": "ユーザーが広聴AIを導入する際のハードルが高い",
+      "x": 8.049999,
+      "y": -0.68756527,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_10",
+        "2_10"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/564"
+    },
+    {
+      "arg_id": "A564_1",
+      "argument": "活用事例の提供が不足しているため、ユーザーの理解が進まない",
+      "x": 5.25491,
+      "y": 1.0240471,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_9",
+        "2_36"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/564"
+    },
+    {
+      "arg_id": "A564_2",
+      "argument": "広聴AIの利用促進のために具体的な事例を集めて公開する必要がある",
+      "x": 8.266714,
+      "y": -0.72049177,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_10",
+        "2_10"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/564"
+    },
+    {
+      "arg_id": "A558_0",
+      "argument": "テストコードの実装が困難な構成になっている",
+      "x": 8.797173,
+      "y": 3.6343112,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_8",
+        "2_26"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/558"
+    },
+    {
+      "arg_id": "A558_1",
+      "argument": "実行環境のデータがテストに影響を与えるリスクがある",
+      "x": 9.035485,
+      "y": 3.400478,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_8",
+        "2_71"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/558"
+    },
+    {
+      "arg_id": "A558_2",
+      "argument": "テスト環境と実行環境の設定を明確に分ける必要がある",
+      "x": 9.182907,
+      "y": 3.3990889,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_8",
+        "2_71"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/558"
+    },
+    {
+      "arg_id": "A556_0",
+      "argument": "アクセシビリティの向上が必要である",
+      "x": 6.906848,
+      "y": 2.990129,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_3",
+        "2_74"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/556"
+    },
+    {
+      "arg_id": "A556_1",
+      "argument": "新たなユーザー層を獲得するための対応が求められている",
+      "x": 5.5826645,
+      "y": 2.0703447,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_9",
+        "2_43"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/556"
+    },
+    {
+      "arg_id": "A556_2",
+      "argument": "デジタル庁のガイドラインに基づいた改善が重要である",
+      "x": 6.2580485,
+      "y": 2.6112564,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_3",
+        "2_66"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/556"
+    },
+    {
+      "arg_id": "A548_0",
+      "argument": "中間ファイルのCSV管理によるデータ不整合のリスクが存在する",
+      "x": 7.667258,
+      "y": 2.7811694,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_7",
+        "2_77"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/548"
+    },
+    {
+      "arg_id": "A548_1",
+      "argument": "ファイルベースの管理からデータベース管理への移行が必要である",
+      "x": 7.7974567,
+      "y": 3.2126718,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_7",
+        "2_53"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/548"
+    },
+    {
+      "arg_id": "A548_2",
+      "argument": "複製機能の実装において、既存データの再利用が求められている",
+      "x": 7.4857583,
+      "y": 4.510051,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_8",
+        "2_31"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/548"
+    },
+    {
+      "arg_id": "A548_3",
+      "argument": "データの一貫性と整合性を向上させる必要がある",
+      "x": 8.068217,
+      "y": 4.5644464,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_8",
+        "2_81"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/548"
+    },
+    {
+      "arg_id": "A548_4",
+      "argument": "トランザクション管理や競合管理の改善が求められている",
+      "x": 6.8565683,
+      "y": 3.2245975,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_3",
+        "2_74"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/548"
+    },
+    {
+      "arg_id": "A547_0",
+      "argument": "APIキーの漏洩リスクが存在する",
+      "x": 8.058835,
+      "y": 1.3379016,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_10",
+        "2_22"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/547"
+    },
+    {
+      "arg_id": "A547_1",
+      "argument": "管理画面のセキュリティ強化が必要である",
+      "x": 7.908709,
+      "y": 2.1982884,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_10",
+        "2_32"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/547"
+    },
+    {
+      "arg_id": "A547_2",
+      "argument": "APIリクエストの安全な取り扱い方法を検討する必要がある",
+      "x": 8.091642,
+      "y": 1.5953612,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_10",
+        "2_57"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/547"
+    },
+    {
+      "arg_id": "A546_0",
+      "argument": "エラーハンドリングの一貫性が欠如している",
+      "x": 6.9235115,
+      "y": 0.37131736,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_9",
+        "2_51"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/546"
+    },
+    {
+      "arg_id": "A546_1",
+      "argument": "コードの可読性と保守性が低下している",
+      "x": 7.797748,
+      "y": 2.1133237,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_10",
+        "2_32"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/546"
+    },
+    {
+      "arg_id": "A546_2",
+      "argument": "エンドポイントごとのエラーハンドリングが冗長である",
+      "x": 6.833207,
+      "y": 0.34269664,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_9",
+        "2_51"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/546"
+    },
+    {
+      "arg_id": "A542_0",
+      "argument": "レポートに関する責任の所在が不明確である",
+      "x": 3.8636394,
+      "y": 4.015706,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_1",
+        "2_76"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/542"
+    },
+    {
+      "arg_id": "A542_1",
+      "argument": "免責事項に必要な情報が不足している",
+      "x": 5.241332,
+      "y": 0.78772134,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_9",
+        "2_36"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/542"
+    },
+    {
+      "arg_id": "A537_0",
+      "argument": "OpenRouterの無料モデルを利用できるようにする必要がある",
+      "x": 6.4274354,
+      "y": 5.1613584,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_4",
+        "2_99"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/537"
+    },
+    {
+      "arg_id": "A537_1",
+      "argument": "無料で広聴AIを使える環境を整備するべきである",
+      "x": 8.30558,
+      "y": -0.77614534,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_10",
+        "2_10"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/537"
+    },
+    {
+      "arg_id": "A537_2",
+      "argument": "エラーが発生しているため、原因を特定し解決する必要がある",
+      "x": 6.4422555,
+      "y": 0.5186232,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_9",
+        "2_11"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/537"
+    },
+    {
+      "arg_id": "A537_3",
+      "argument": "OpenAIのライブラリとの互換性に問題がある可能性がある",
+      "x": 9.095999,
+      "y": 0.4726283,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_10",
+        "2_5"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/537"
+    },
+    {
+      "arg_id": "A530_0",
+      "argument": "Windows環境でのセットアップ時に必要な依存関係が明示されていない",
+      "x": 10.055268,
+      "y": 2.3080199,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_6",
+        "2_13"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/530"
+    },
+    {
+      "arg_id": "A530_1",
+      "argument": "requirements.txtが不足しているためにDockerビルドが失敗する",
+      "x": 10.473557,
+      "y": 2.7878811,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_6",
+        "2_28"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/530"
+    },
+    {
+      "arg_id": "A530_2",
+      "argument": "Azure関連のモジュールがrequirements.txtに含まれていないことが問題である",
+      "x": 9.847671,
+      "y": 2.1821136,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_6",
+        "2_63"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/530"
+    },
+    {
+      "arg_id": "A530_3",
+      "argument": "エラーメッセージが発生する原因が明確に示されていない",
+      "x": 6.1280265,
+      "y": 0.37442598,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_9",
+        "2_80"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/530"
+    },
+    {
+      "arg_id": "A529_0",
+      "argument": "デザインの統一性が不足しているため、改善が必要である",
+      "x": 6.6586585,
+      "y": 3.0824888,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_3",
+        "2_12"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/529"
+    },
+    {
+      "arg_id": "A528_0",
+      "argument": "階層図の説明文がグラフの内容と一致していないため、ユーザーが混乱する",
+      "x": 3.8709908,
+      "y": 1.5810814,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_2",
+        "2_91"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/528"
+    },
+    {
+      "arg_id": "A528_1",
+      "argument": "UX向上のために、グラフとその説明文の整合性を持たせる必要がある",
+      "x": 4.0045667,
+      "y": 1.9873556,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_2",
+        "2_65"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/528"
+    },
+    {
+      "arg_id": "A528_2",
+      "argument": "グラフホバー時に表示される解説を充実させることが望ましい",
+      "x": 4.3681273,
+      "y": 2.1252596,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_2",
+        "2_65"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/528"
+    },
+    {
+      "arg_id": "A519_0",
+      "argument": "エネルギー庁のパブリックコメントに関する分析結果を公開する必要がある",
+      "x": 5.303873,
+      "y": 3.7238798,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_3",
+        "2_24"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/519"
+    },
+    {
+      "arg_id": "A519_1",
+      "argument": "分析レポートの作成が求められている",
+      "x": 3.9885745,
+      "y": 3.4535778,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_1",
+        "2_98"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/519"
+    },
+    {
+      "arg_id": "A518_0",
+      "argument": "static exportしたページの確認プロセスが手動で煩雑である",
+      "x": 7.5353694,
+      "y": 2.2896512,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_10",
+        "2_32"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/518"
+    },
+    {
+      "arg_id": "A518_1",
+      "argument": "自動化による効率化が求められている",
+      "x": 7.119761,
+      "y": 3.1936913,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_3",
+        "2_74"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/518"
+    },
+    {
+      "arg_id": "A518_2",
+      "argument": "GitHub Actionsを活用した自動化の実現が必要である",
+      "x": 7.713286,
+      "y": 2.8186347,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_7",
+        "2_77"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/518"
+    },
+    {
+      "arg_id": "A518_3",
+      "argument": "ホスティング方法の選択肢を検討する必要がある",
+      "x": 6.5569224,
+      "y": 4.949627,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_4",
+        "2_99"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/518"
+    },
+    {
+      "arg_id": "A517_0",
+      "argument": "ウェルカムミーティングでの役割募集の具体化が必要である",
+      "x": 6.147466,
+      "y": 4.0521646,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_4",
+        "2_62"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/517"
+    },
+    {
+      "arg_id": "A517_1",
+      "argument": "募集する役割の整理が不十分である",
+      "x": 6.4453306,
+      "y": 4.027217,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_4",
+        "2_62"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/517"
+    },
+    {
+      "arg_id": "A517_2",
+      "argument": "リクルーティング資料の内容を充実させる必要がある",
+      "x": 4.7986455,
+      "y": 2.8529122,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_2",
+        "2_68"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/517"
+    },
+    {
+      "arg_id": "A516_0",
+      "argument": "クラスタリング手法の選択が結果に与える影響を理解する必要がある",
+      "x": 7.246026,
+      "y": 6.0193977,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_4",
+        "2_93"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/516"
+    },
+    {
+      "arg_id": "A516_1",
+      "argument": "エンベディングの選択がモデルのパフォーマンスに及ぼす影響を調査する必要がある",
+      "x": 6.7635283,
+      "y": 5.2754183,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_4",
+        "2_8"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/516"
+    },
+    {
+      "arg_id": "A516_2",
+      "argument": "次元圧縮手法の違いがデータのまとまり具合に与える影響を評価する必要がある",
+      "x": 7.685235,
+      "y": 4.9400434,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_8",
+        "2_59"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/516"
+    },
+    {
+      "arg_id": "A516_3",
+      "argument": "シルエットスコアを用いたモデル評価の重要性を認識する必要がある",
+      "x": 6.979564,
+      "y": 5.2045135,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_4",
+        "2_8"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/516"
+    },
+    {
+      "arg_id": "A515_0",
+      "argument": "UMAPの実行結果がレポートごとに異なるため、ユーザーの解釈が難しくなっている",
+      "x": 3.4856892,
+      "y": 3.174813,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_1",
+        "2_6"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/515"
+    },
+    {
+      "arg_id": "A515_1",
+      "argument": "過去のレポートと同一のUMAPを使用することで、時系列の傾向を比較しやすくする必要がある",
+      "x": 3.3639464,
+      "y": 3.2641058,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_1",
+        "2_6"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/515"
+    },
+    {
+      "arg_id": "A515_2",
+      "argument": "レポート出力時のUMAPモデルの管理が不十分である",
+      "x": 3.4802032,
+      "y": 3.3011734,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_1",
+        "2_6"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/515"
+    },
+    {
+      "arg_id": "A514_0",
+      "argument": "並列実行による結果の順序が不安定であるため、データの整合性が損なわれる可能性がある",
+      "x": 8.332547,
+      "y": 4.5004354,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_8",
+        "2_81"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/514"
+    },
+    {
+      "arg_id": "A514_1",
+      "argument": "UMAPの入力データの順序が毎回変わることで、結果が一貫しない問題が発生している",
+      "x": 3.3473587,
+      "y": 3.2612848,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_1",
+        "2_6"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/514"
+    },
+    {
+      "arg_id": "A514_2",
+      "argument": "結果をソートしてから保存する仕組みが必要である",
+      "x": 7.7880645,
+      "y": 4.5303,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_8",
+        "2_31"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/514"
+    },
+    {
+      "arg_id": "A513_0",
+      "argument": "同じデータに対して一貫した結果が得られない問題がある",
+      "x": 8.083807,
+      "y": 4.835757,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_8",
+        "2_48"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/513"
+    },
+    {
+      "arg_id": "A513_1",
+      "argument": "結果の再現性を確保する必要がある",
+      "x": 7.8488812,
+      "y": 4.6932206,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_8",
+        "2_31"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/513"
+    },
+    {
+      "arg_id": "A507_0",
+      "argument": "report_status.jsonの形式変更に伴う互換性維持のためのコードが不要である",
+      "x": 4.28189,
+      "y": 3.729523,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_1",
+        "2_15"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/507"
+    },
+    {
+      "arg_id": "A507_1",
+      "argument": "メジャーバージョンアップ時に不要なコードを整理する必要がある",
+      "x": 7.4669795,
+      "y": 2.9752967,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_7",
+        "2_52"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/507"
+    },
+    {
+      "arg_id": "A503_0",
+      "argument": "個人情報生成機能の追加が必要である",
+      "x": 7.114573,
+      "y": 2.4239998,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_7",
+        "2_30"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/503"
+    },
+    {
+      "arg_id": "A503_1",
+      "argument": "個人情報の除去率を測定する機能が不足している",
+      "x": 7.037991,
+      "y": 2.45477,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_7",
+        "2_30"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/503"
+    },
+    {
+      "arg_id": "A503_2",
+      "argument": "個人情報の抽出プロンプトの改善が求められている",
+      "x": 6.96375,
+      "y": 2.594396,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_7",
+        "2_30"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/503"
+    },
+    {
+      "arg_id": "A503_3",
+      "argument": "個人情報の検出・除去精度を向上させる必要がある",
+      "x": 7.036312,
+      "y": 2.504601,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_7",
+        "2_30"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/503"
+    },
+    {
+      "arg_id": "A496_0",
+      "argument": "Docker Desktopのインストールが禁止される環境での利用が困難である",
+      "x": 10.541347,
+      "y": 2.8489451,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_6",
+        "2_28"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/496"
+    },
+    {
+      "arg_id": "A496_1",
+      "argument": "非営利のOSS開発以外に対するDockerの有償化が影響を及ぼしている",
+      "x": 10.57776,
+      "y": 2.8457022,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_6",
+        "2_28"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/496"
+    },
+    {
+      "arg_id": "A496_2",
+      "argument": "Dockerなしでの動作を実現する必要がある",
+      "x": 10.644514,
+      "y": 2.9075596,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_6",
+        "2_28"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/496"
+    },
+    {
+      "arg_id": "A496_3",
+      "argument": "代替手段としてRancherやPodmanの利用を検討する必要がある",
+      "x": 5.5557833,
+      "y": 4.999902,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_4",
+        "2_16"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/496"
+    },
+    {
+      "arg_id": "A493_0",
+      "argument": "ユーザーが意図しない動作が発生することが問題である",
+      "x": 5.9080048,
+      "y": 1.0468031,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_9",
+        "2_42"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/493"
+    },
+    {
+      "arg_id": "A493_1",
+      "argument": "ユーザー操作の直感性が不足している",
+      "x": 5.431283,
+      "y": 1.5073931,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_9",
+        "2_7"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/493"
+    },
+    {
+      "arg_id": "A478_0",
+      "argument": "SVGにおける改行処理が不適切である",
+      "x": 7.131389,
+      "y": 1.6483176,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_10",
+        "2_1"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/478"
+    },
+    {
+      "arg_id": "A478_1",
+      "argument": "禁則処理が考慮されていないため、表示が不自然になる可能性がある",
+      "x": 6.4365134,
+      "y": 1.5048563,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_9",
+        "2_27"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/478"
+    },
+    {
+      "arg_id": "A478_2",
+      "argument": "ユーザーにとっての視認性が低下する問題がある",
+      "x": 5.503885,
+      "y": 1.3006662,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_9",
+        "2_7"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/478"
+    },
+    {
+      "arg_id": "A477_0",
+      "argument": "Azure OpenAIの利用時にモデル選択の不整合が発生している",
+      "x": 9.003648,
+      "y": 0.42604503,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_10",
+        "2_5"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/477"
+    },
+    {
+      "arg_id": "A477_1",
+      "argument": "ユーザーインターフェースがリソースの状態を反映していないため、誤解を招く可能性がある",
+      "x": 5.831261,
+      "y": 0.9556805,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_9",
+        "2_42"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/477"
+    },
+    {
+      "arg_id": "A477_2",
+      "argument": "モデル選択のプロセスが明確でないため、ユーザーに対する情報提供が不足している",
+      "x": 5.1057906,
+      "y": 0.85287595,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_9",
+        "2_36"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/477"
+    },
+    {
+      "arg_id": "A474_0",
+      "argument": "bonsaiアルゴリズムの実験を通じてその有効性を検証したい",
+      "x": 7.4388175,
+      "y": 5.4537206,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_8",
+        "2_59"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/474"
+    },
+    {
+      "arg_id": "A474_1",
+      "argument": "新しいツリークラスタリング手法の実用性を評価する必要がある",
+      "x": 7.258268,
+      "y": 5.9308443,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_4",
+        "2_93"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/474"
+    },
+    {
+      "arg_id": "A473_0",
+      "argument": "環境検証ページがChatGPTのみ対応であるため、選択肢が限られている",
+      "x": 9.012507,
+      "y": 2.1023767,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_7",
+        "2_72"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/473"
+    },
+    {
+      "arg_id": "A473_1",
+      "argument": "複数のLLMプロバイダーに対応する必要がある",
+      "x": 3.466273,
+      "y": 9.188111,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_5",
+        "2_0"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/473"
+    },
+    {
+      "arg_id": "A473_2",
+      "argument": "ユーザーのニーズに応じた環境検証機能が不足している",
+      "x": 8.539914,
+      "y": 2.7448118,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_7",
+        "2_75"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/473"
+    },
+    {
+      "arg_id": "A471_0",
+      "argument": "ローカルLLMの動作速度に関する情報が不足している",
+      "x": 3.5487,
+      "y": 9.279825,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_5",
+        "2_0"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/471"
+    },
+    {
+      "arg_id": "A471_1",
+      "argument": "ローカルLLMを動作させるための推奨マシンスペックが不明である",
+      "x": 3.5215955,
+      "y": 9.256401,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_5",
+        "2_0"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/471"
+    },
+    {
+      "arg_id": "A471_2",
+      "argument": "標準のLLMモデルの選定が行われていない",
+      "x": 3.5257256,
+      "y": 9.372188,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_5",
+        "2_0"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/471"
+    },
+    {
+      "arg_id": "A471_3",
+      "argument": "自治体向けに適切なPCの提案ができていない",
+      "x": 5.979685,
+      "y": 4.809581,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_4",
+        "2_85"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/471"
+    },
+    {
+      "arg_id": "A470_0",
+      "argument": "個人情報の漏洩リスクが存在する",
+      "x": 7.288768,
+      "y": 2.174092,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_7",
+        "2_67"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/470"
+    },
+    {
+      "arg_id": "A470_1",
+      "argument": "現状の手動による個人情報除去作業が負担である",
+      "x": 7.121168,
+      "y": 2.474911,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_7",
+        "2_30"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/470"
+    },
+    {
+      "arg_id": "A470_2",
+      "argument": "自動化された個人情報除去機能が必要である",
+      "x": 7.219822,
+      "y": 2.5604904,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_7",
+        "2_30"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/470"
+    },
+    {
+      "arg_id": "A464_0",
+      "argument": "OpenAI APIキーが不足しているため、イシューラベリング機能が停止している",
+      "x": 8.957119,
+      "y": 0.472239,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_10",
+        "2_5"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/464"
+    },
+    {
+      "arg_id": "A464_1",
+      "argument": "代替手段として他のLLM APIの利用を検討する必要がある",
+      "x": 3.509404,
+      "y": 9.232747,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_5",
+        "2_0"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/464"
+    },
+    {
+      "arg_id": "A464_2",
+      "argument": "LLMによる分類機能の継続が困難である",
+      "x": 3.570276,
+      "y": 9.311104,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_5",
+        "2_0"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/464"
+    },
+    {
+      "arg_id": "A456_0",
+      "argument": "マージ基準が明文化されていないため、メンテナーの判断が曖昧である",
+      "x": 8.230286,
+      "y": 3.7714033,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_8",
+        "2_35"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/456"
+    },
+    {
+      "arg_id": "A456_1",
+      "argument": "レビュー時の判断基準が不明確で、効率的な作業が妨げられている",
+      "x": 7.7100444,
+      "y": 3.4809885,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_7",
+        "2_53"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/456"
+    },
+    {
+      "arg_id": "A456_2",
+      "argument": "妥協点に関するガイドラインが不足している",
+      "x": 6.196276,
+      "y": 2.5810509,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_3",
+        "2_66"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/456"
+    },
+    {
+      "arg_id": "A454_0",
+      "argument": "Cold List に長期間残っている Issue の管理が不十分である",
+      "x": 8.227584,
+      "y": 2.6497405,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_7",
+        "2_58"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/454"
+    },
+    {
+      "arg_id": "A454_1",
+      "argument": "対応の必要がない Issue を自動的に整理する仕組みが欠如している",
+      "x": 8.118505,
+      "y": 2.9403343,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_7",
+        "2_14"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/454"
+    },
+    {
+      "arg_id": "A452_0",
+      "argument": "API呼び出しのタイムアウト設定が固定されているため柔軟性がない",
+      "x": 6.3837695,
+      "y": 1.7607695,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_9",
+        "2_29"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/452"
+    },
+    {
+      "arg_id": "A452_1",
+      "argument": "ユーザーがタイムアウト時間を変更できる機能が不足している",
+      "x": 6.144037,
+      "y": 1.8618668,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_9",
+        "2_29"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/452"
+    },
+    {
+      "arg_id": "A452_2",
+      "argument": "タイムアウトによる処理の中断が発生する可能性がある",
+      "x": 6.4152117,
+      "y": 1.7267302,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_9",
+        "2_27"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/452"
+    },
+    {
+      "arg_id": "A450_0",
+      "argument": "エンベデッドモデルの選択肢が不足している",
+      "x": 6.283671,
+      "y": 5.278462,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_4",
+        "2_38"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/450"
+    },
+    {
+      "arg_id": "A450_1",
+      "argument": "ユーザーが最適なモデルを選択できる機能が必要である",
+      "x": 6.2497067,
+      "y": 5.2451754,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_4",
+        "2_38"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/450"
+    },
+    {
+      "arg_id": "A450_2",
+      "argument": "異なるプロバイダーのモデル性能を考慮した選択が求められている",
+      "x": 6.6945715,
+      "y": 5.2665143,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_4",
+        "2_8"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/450"
+    },
+    {
+      "arg_id": "A445_0",
+      "argument": "Github Copilot Chatの動作に影響を与える設定が不足している",
+      "x": 8.448391,
+      "y": 2.7907925,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_7",
+        "2_75"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/445"
+    },
+    {
+      "arg_id": "A445_1",
+      "argument": "ユーザーの開発者体験を向上させるための適切な指示ファイルが必要である",
+      "x": 5.879063,
+      "y": 2.3482652,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_9",
+        "2_43"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/445"
+    },
+    {
+      "arg_id": "A417_0",
+      "argument": "PRレビューが開発のボトルネックになっている",
+      "x": 7.4767504,
+      "y": 3.0975103,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_7",
+        "2_52"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/417"
+    },
+    {
+      "arg_id": "A417_1",
+      "argument": "コードレビューの効率化が求められている",
+      "x": 7.2819986,
+      "y": 3.0727146,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_7",
+        "2_52"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/417"
+    },
+    {
+      "arg_id": "A417_2",
+      "argument": "AIを活用したレビュー手法の導入が検討されている",
+      "x": 8.095366,
+      "y": -0.39547712,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_10",
+        "2_10"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/417"
+    },
+    {
+      "arg_id": "A400_0",
+      "argument": "APIキーの設定状況が不明確であるため、レポート作成前に確認できる機能が必要である",
+      "x": 7.9290414,
+      "y": 1.1068722,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_10",
+        "2_95"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/400"
+    },
+    {
+      "arg_id": "A400_1",
+      "argument": "システムの稼働状況を確認するための機能が不足している",
+      "x": 8.469385,
+      "y": 2.6264186,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_7",
+        "2_92"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/400"
+    },
+    {
+      "arg_id": "A400_2",
+      "argument": "APIの利用状況（残高やレート制限）の確認機能が未整備である",
+      "x": 8.030789,
+      "y": 1.1349207,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_10",
+        "2_95"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/400"
+    },
+    {
+      "arg_id": "A398_0",
+      "argument": "Devinの活用によって人間がPRを出しにくくなる懸念がある",
+      "x": 6.345107,
+      "y": 2.9350822,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_3",
+        "2_12"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/398"
+    },
+    {
+      "arg_id": "A398_1",
+      "argument": "AI導入による文化の摩擦が発生している可能性がある",
+      "x": 7.9544992,
+      "y": -0.24617352,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_10",
+        "2_45"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/398"
+    },
+    {
+      "arg_id": "A398_2",
+      "argument": "人間とDevinの協働方法を改善する必要がある",
+      "x": 6.3976007,
+      "y": 2.9641945,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_3",
+        "2_12"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/398"
+    },
+    {
+      "arg_id": "A398_3",
+      "argument": "Devinを活用する際の参加感や快適さを向上させる方法を模索する必要がある",
+      "x": 6.300713,
+      "y": 3.0039134,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_3",
+        "2_12"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/398"
+    },
+    {
+      "arg_id": "A396_0",
+      "argument": "管理画面の基本的なワークフローの正常性を確認する必要がある",
+      "x": 8.066015,
+      "y": 2.5491211,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_7",
+        "2_58"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/396"
+    },
+    {
+      "arg_id": "A396_1",
+      "argument": "テストの前提条件が整っていない場合、テストが実施できない",
+      "x": 8.978435,
+      "y": 3.7696674,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_8",
+        "2_79"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/396"
+    },
+    {
+      "arg_id": "A396_2",
+      "argument": "テストの安定性と独立性を確保するための実装上の注意点が必要である",
+      "x": 8.897217,
+      "y": 3.7355282,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_8",
+        "2_79"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/396"
+    },
+    {
+      "arg_id": "A396_3",
+      "argument": "エラーケースに対するテストが不足している",
+      "x": 6.999298,
+      "y": 0.65405554,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_9",
+        "2_97"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/396"
+    },
+    {
+      "arg_id": "A395_0",
+      "argument": "管理画面のe2eテストの網羅性が不足している",
+      "x": 8.757229,
+      "y": 3.2477615,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_8",
+        "2_26"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/395"
+    },
+    {
+      "arg_id": "A395_1",
+      "argument": "データインポート機能のテストが必要である",
+      "x": 8.305018,
+      "y": 3.3115258,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_8",
+        "2_35"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/395"
+    },
+    {
+      "arg_id": "A395_2",
+      "argument": "入力バリデーションのテストが不十分である",
+      "x": 8.787451,
+      "y": 3.6093426,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_8",
+        "2_26"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/395"
+    },
+    {
+      "arg_id": "A395_3",
+      "argument": "AI詳細設定の変更に対するテストが必要である",
+      "x": 8.788776,
+      "y": 3.437103,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_8",
+        "2_26"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/395"
+    },
+    {
+      "arg_id": "A395_4",
+      "argument": "エラー処理のテストが不十分である",
+      "x": 6.931848,
+      "y": 0.82863533,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_10",
+        "2_34"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/395"
+    },
+    {
+      "arg_id": "A395_5",
+      "argument": "APIキーやクレジット不足時のエラー処理が適切に行われていない",
+      "x": 7.559128,
+      "y": 1.1168816,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_10",
+        "2_56"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/395"
+    },
+    {
+      "arg_id": "A393_0",
+      "argument": "プラポリや利用規約の変更点が明確に記載されていないため、確認漏れが発生する可能性がある",
+      "x": 6.5039496,
+      "y": 1.9196281,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_9",
+        "2_29"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/393"
+    },
+    {
+      "arg_id": "A393_1",
+      "argument": "ドキュメントに変更内容を記載することで、公開前のチェックリストとして機能させる必要がある",
+      "x": 4.6891394,
+      "y": 3.4677126,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_1",
+        "2_44"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/393"
+    },
+    {
+      "arg_id": "A393_2",
+      "argument": "デバッグ時に変更点に気づかないリスクを軽減するための情報提供が不足している",
+      "x": 5.38686,
+      "y": 0.7731425,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_9",
+        "2_36"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/393"
+    },
+    {
+      "arg_id": "A391_0",
+      "argument": "APIのエラーハンドリングが不十分で、ユーザーにとって原因がわかりにくい",
+      "x": 6.249559,
+      "y": 0.29604593,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_9",
+        "2_80"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/391"
+    },
+    {
+      "arg_id": "A391_1",
+      "argument": "APIキーの有効性チェックが行われていないため、レポート作成が失敗する",
+      "x": 7.86054,
+      "y": 1.023171,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_10",
+        "2_95"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/391"
+    },
+    {
+      "arg_id": "A391_2",
+      "argument": "ユーザーに対するエラーメッセージが技術的すぎて理解しづらい",
+      "x": 5.8783545,
+      "y": 0.39981455,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_9",
+        "2_80"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/391"
+    },
+    {
+      "arg_id": "A391_3",
+      "argument": "ネットワークエラー時の処理が不適切である",
+      "x": 7.16405,
+      "y": 1.0316479,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_10",
+        "2_88"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/391"
+    },
+    {
+      "arg_id": "A385_0",
+      "argument": "OpenAI/Azure OpenAI の利用に対するハードルが高く、特に自治体などの組織においてアカウント作成がボトルネックになっている",
+      "x": 8.976043,
+      "y": 0.5534796,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_10",
+        "2_5"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/385"
+    },
+    {
+      "arg_id": "A385_1",
+      "argument": "ローカルLLMの導入により、より多くのユーザーが利用できるようになる可能性がある",
+      "x": 3.4701865,
+      "y": 9.26608,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_5",
+        "2_0"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/385"
+    },
+    {
+      "arg_id": "A385_2",
+      "argument": "出力品質が下がることを理解した上で、ローカルLLMの利用が参考になるアウトプットを提供できるかもしれない",
+      "x": 3.4761488,
+      "y": 9.25579,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_5",
+        "2_0"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/385"
+    },
+    {
+      "arg_id": "A385_3",
+      "argument": "ローカルLLMの利用を通じて、ユーザーが本格導入を検討しやすくなる環境を整える必要がある",
+      "x": 3.2796896,
+      "y": 9.303026,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_5",
+        "2_0"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/385"
+    },
+    {
+      "arg_id": "A380_0",
+      "argument": "E2Eテスト環境の構築が必要である",
+      "x": 8.995296,
+      "y": 3.33311,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_8",
+        "2_71"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/380"
+    },
+    {
+      "arg_id": "A380_1",
+      "argument": "テストの安定性を確保することが重要である",
+      "x": 8.967389,
+      "y": 3.717092,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_8",
+        "2_79"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/380"
+    },
+    {
+      "arg_id": "A380_2",
+      "argument": "開発者がローカルで簡単にテストを実行できる環境が求められている",
+      "x": 9.087356,
+      "y": 3.3686945,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_8",
+        "2_71"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/380"
+    },
+    {
+      "arg_id": "A379_0",
+      "argument": "E2Eテストの導入が必要である理由は、状態管理の問題を早期に検出するためである",
+      "x": 8.913364,
+      "y": 3.5738628,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_8",
+        "2_26"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/379"
+    },
+    {
+      "arg_id": "A379_1",
+      "argument": "重要なユーザーフローの動作を自動的に検証する仕組みが不足している",
+      "x": 8.157526,
+      "y": 2.9105964,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_7",
+        "2_14"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/379"
+    },
+    {
+      "arg_id": "A379_2",
+      "argument": "リファクタリングによる回帰バグを早期に発見する手段が必要である",
+      "x": 7.423387,
+      "y": 4.008091,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_8",
+        "2_60"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/379"
+    },
+    {
+      "arg_id": "A379_3",
+      "argument": "開発者の負担を軽減しつつ品質を向上させるための取り組みが求められている",
+      "x": 6.857861,
+      "y": 3.3609042,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_3",
+        "2_74"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/379"
+    },
+    {
+      "arg_id": "A379_4",
+      "argument": "テストの安定性と持続可能性を確保する必要がある",
+      "x": 8.984835,
+      "y": 3.7954006,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_8",
+        "2_79"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/379"
+    },
+    {
+      "arg_id": "A374_0",
+      "argument": "OpenAIのAPI利用時にレートリミットによる制約が存在する",
+      "x": 9.076275,
+      "y": 0.49705908,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_10",
+        "2_5"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/374"
+    },
+    {
+      "arg_id": "A374_1",
+      "argument": "バッチ処理を導入することでレートリミットを緩和できる可能性がある",
+      "x": 7.3433957,
+      "y": 3.8623285,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_8",
+        "2_60"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/374"
+    },
+    {
+      "arg_id": "A374_2",
+      "argument": "バッチAPIの利用によってコスト削減が期待できる",
+      "x": 7.1884565,
+      "y": 3.6005824,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_8",
+        "2_20"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/374"
+    },
+    {
+      "arg_id": "A370_0",
+      "argument": "パブリックコメントの同一内容が大量に投稿される問題が存在する",
+      "x": 6.2259164,
+      "y": 3.5582821,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_3",
+        "2_89"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/370"
+    },
+    {
+      "arg_id": "A370_1",
+      "argument": "フロントエンドおよびバックエンドの処理負荷が増大している",
+      "x": 7.295422,
+      "y": 3.511942,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_8",
+        "2_20"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/370"
+    },
+    {
+      "arg_id": "A370_2",
+      "argument": "ユーザーの認知負荷が高まり、重要な意見が埋もれてしまう",
+      "x": 5.606845,
+      "y": 1.4750377,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_9",
+        "2_7"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/370"
+    },
+    {
+      "arg_id": "A370_3",
+      "argument": "省庁が実用可能なツールの必要性がある",
+      "x": 6.010308,
+      "y": 4.495019,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_4",
+        "2_85"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/370"
+    },
+    {
+      "arg_id": "A367_0",
+      "argument": "意見抽出プロンプトの改善が必要である",
+      "x": 6.4925284,
+      "y": 2.8421426,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_3",
+        "2_12"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/367"
+    },
+    {
+      "arg_id": "A367_1",
+      "argument": "システムが自動的に意見を消すことは問題である",
+      "x": 5.6562333,
+      "y": 1.5480016,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_9",
+        "2_7"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/367"
+    },
+    {
+      "arg_id": "A367_2",
+      "argument": "ユーザーがプロンプトを調整できるガイドラインが求められている",
+      "x": 6.1379895,
+      "y": 2.4249384,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_3",
+        "2_66"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/367"
+    },
+    {
+      "arg_id": "A367_3",
+      "argument": "意見抽出の品質管理が重要である",
+      "x": 6.0316963,
+      "y": 3.1766732,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_3",
+        "2_39"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/367"
+    },
+    {
+      "arg_id": "A367_4",
+      "argument": "不適切な出力を収集し改善に活かす仕組みが必要である",
+      "x": 6.9045806,
+      "y": 3.9257138,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_8",
+        "2_3"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/367"
+    },
+    {
+      "arg_id": "A367_5",
+      "argument": "うまくいっていない入力と出力のペアを集めることが有益である",
+      "x": 6.850957,
+      "y": 4.013628,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_8",
+        "2_3"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/367"
+    },
+    {
+      "arg_id": "A366_0",
+      "argument": "現在のレポート管理システムでは、すべてのレポートが単一のリストに追加されるため、関連性のあるレポートの整理が不十分である",
+      "x": 3.9926994,
+      "y": 3.8682406,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_1",
+        "2_76"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/366"
+    },
+    {
+      "arg_id": "A366_1",
+      "argument": "レポートの公開設定がデフォルトで公開になっているため、意図しない公開のリスクがある",
+      "x": 4.53681,
+      "y": 3.946321,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_1",
+        "2_84"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/366"
+    },
+    {
+      "arg_id": "A366_2",
+      "argument": "ユーザーがレポートを個別に管理できる機能が不足している",
+      "x": 3.812062,
+      "y": 3.1566544,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_1",
+        "2_33"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/366"
+    },
+    {
+      "arg_id": "A366_3",
+      "argument": "複数のリストを作成できる機能が必要である",
+      "x": 4.449954,
+      "y": 3.60016,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_1",
+        "2_44"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/366"
+    },
+    {
+      "arg_id": "A364_0",
+      "argument": "個別レポートのセキュリティ強化が必要である",
+      "x": 4.0272775,
+      "y": 3.2760327,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_1",
+        "2_98"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/364"
+    },
+    {
+      "arg_id": "A364_1",
+      "argument": "デフォルトの公開設定が不適切である",
+      "x": 5.0499053,
+      "y": 3.9999464,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_3",
+        "2_24"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/364"
+    },
+    {
+      "arg_id": "A364_2",
+      "argument": "ユーザーがレポートの公開状態を管理しやすくする必要がある",
+      "x": 4.030619,
+      "y": 3.1706643,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_1",
+        "2_33"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/364"
+    },
+    {
+      "arg_id": "A364_3",
+      "argument": "複数のレポートリストを作成できる機能が求められている",
+      "x": 4.101341,
+      "y": 3.704061,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_1",
+        "2_15"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/364"
+    },
+    {
+      "arg_id": "A346_0",
+      "argument": "同一内容の大量投稿によるフロントエンドの処理負荷が高い",
+      "x": 7.102709,
+      "y": 3.6680202,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_8",
+        "2_20"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/345"
+    },
+    {
+      "arg_id": "A346_1",
+      "argument": "バックエンドの処理負荷とコストが増大する",
+      "x": 7.2509117,
+      "y": 3.6399684,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_8",
+        "2_20"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/346"
+    },
+    {
+      "arg_id": "A346_2",
+      "argument": "ユーザーの認知負荷が高まり、本来の意見が埋もれてしまう",
+      "x": 5.5485954,
+      "y": 1.4526705,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_9",
+        "2_7"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/346"
+    },
+    {
+      "arg_id": "A345_1",
+      "argument": "バックエンドの処理負荷とコストが増大している",
+      "x": 7.315739,
+      "y": 3.557686,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_8",
+        "2_20"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/345"
+    },
+    {
+      "arg_id": "A345_2",
+      "argument": "ユーザーの認知負荷が高まり、本来の意見が埋もれてしまう可能性がある",
+      "x": 5.521117,
+      "y": 1.520802,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_9",
+        "2_7"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/345"
+    },
+    {
+      "arg_id": "A345_3",
+      "argument": "アルゴリズムの改善が必要である",
+      "x": 6.4497175,
+      "y": 3.2527626,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_3",
+        "2_89"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/345"
+    },
+    {
+      "arg_id": "A342_0",
+      "argument": "クラスタリングにおけるデータの文脈情報が不足している",
+      "x": 7.3592005,
+      "y": 6.087638,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_4",
+        "2_55"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/342"
+    },
+    {
+      "arg_id": "A342_1",
+      "argument": "生データの解釈の正確性が低下している",
+      "x": 8.327088,
+      "y": 4.5134287,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_8",
+        "2_81"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/342"
+    },
+    {
+      "arg_id": "A342_2",
+      "argument": "前処理において文脈を考慮した整形が必要である",
+      "x": 7.663048,
+      "y": 4.201576,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_8",
+        "2_31"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/342"
+    },
+    {
+      "arg_id": "A339_0",
+      "argument": "特殊な同義語に対する対応が不十分である",
+      "x": 5.0143366,
+      "y": 2.1538372,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_2",
+        "2_90"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/339"
+    },
+    {
+      "arg_id": "A339_1",
+      "argument": "表記ゆれの問題が解決されていない",
+      "x": 6.3374386,
+      "y": 1.0450038,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_9",
+        "2_87"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/339"
+    },
+    {
+      "arg_id": "A339_2",
+      "argument": "ユーザーからのフィードバックを反映する仕組みが必要である",
+      "x": 5.6657186,
+      "y": 2.1625524,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_9",
+        "2_43"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/339"
+    },
+    {
+      "arg_id": "A337_0",
+      "argument": "「全体図」と「階層図」の視覚的一貫性が欠けているため、ユーザーが情報を把握しづらい",
+      "x": 3.927971,
+      "y": 1.6007044,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_2",
+        "2_91"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/337"
+    },
+    {
+      "arg_id": "A337_1",
+      "argument": "意見グループの識別が困難であるため、ユーザー体験が損なわれている",
+      "x": 5.4946938,
+      "y": 1.4058878,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_9",
+        "2_7"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/337"
+    },
+    {
+      "arg_id": "A333_0",
+      "argument": "静的エクスポートしたHTMLファイルの閲覧にWebサーバーが必須であるため、共有が困難である",
+      "x": 7.2603893,
+      "y": 1.806455,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_10",
+        "2_1"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/333"
+    },
+    {
+      "arg_id": "A333_1",
+      "argument": "ユーザーが手軽にレポートを閲覧できる環境が整っていない",
+      "x": 3.9305947,
+      "y": 2.944357,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_1",
+        "2_33"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/333"
+    },
+    {
+      "arg_id": "A333_2",
+      "argument": "静的HTMLファイルの独立性が不足している",
+      "x": 7.382325,
+      "y": 1.760427,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_10",
+        "2_1"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/333"
+    },
+    {
+      "arg_id": "A324_0",
+      "argument": "ファクトチェックの共通処理が必要である",
+      "x": 7.91269,
+      "y": 4.1010804,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_8",
+        "2_86"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/324"
+    },
+    {
+      "arg_id": "A324_1",
+      "argument": "ファクトチェックの実施方法に関する明確な基準が不足している",
+      "x": 8.022002,
+      "y": 4.099864,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_8",
+        "2_86"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/324"
+    },
+    {
+      "arg_id": "A324_2",
+      "argument": "偽情報の判定基準が不明確である",
+      "x": 8.258457,
+      "y": 3.684046,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_8",
+        "2_35"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/324"
+    },
+    {
+      "arg_id": "A324_3",
+      "argument": "異なるアプローチの効果を比較する必要がある",
+      "x": 7.5389676,
+      "y": 5.1982956,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_8",
+        "2_59"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/324"
+    },
+    {
+      "arg_id": "A323_0",
+      "argument": "レポートの多言語表示が人間にとって読みづらい問題がある",
+      "x": 3.8030527,
+      "y": 3.8525047,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_1",
+        "2_76"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/323"
+    },
+    {
+      "arg_id": "A323_1",
+      "argument": "異なる言語を話すユーザーに対する情報提供が不十分である",
+      "x": 5.3375134,
+      "y": 0.8394691,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_9",
+        "2_36"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/323"
+    },
+    {
+      "arg_id": "A323_2",
+      "argument": "レポート出力時の翻訳機能が欠如している",
+      "x": 3.8403127,
+      "y": 3.8480778,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_1",
+        "2_76"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/323"
+    },
+    {
+      "arg_id": "A318_0",
+      "argument": "意見抽出時のエラーハンドリングが不十分である",
+      "x": 6.8187714,
+      "y": 0.37061915,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_9",
+        "2_51"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/318"
+    },
+    {
+      "arg_id": "A318_1",
+      "argument": "ユーザーがエラーの原因を理解できない状況が発生している",
+      "x": 6.078212,
+      "y": 0.51098365,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_9",
+        "2_80"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/318"
+    },
+    {
+      "arg_id": "A318_2",
+      "argument": "ログ出力の情報が不明瞭で、問題解決に役立たない",
+      "x": 6.251114,
+      "y": 1.251761,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_9",
+        "2_87"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/318"
+    },
+    {
+      "arg_id": "A315_0",
+      "argument": "エラーログの確認が担当者にとって困難である",
+      "x": 6.8954315,
+      "y": 0.53746784,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_9",
+        "2_97"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/315"
+    },
+    {
+      "arg_id": "A315_1",
+      "argument": "エラー情報を開発サイドに伝える手段が不足している",
+      "x": 6.0525656,
+      "y": 0.47362158,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_9",
+        "2_80"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/315"
+    },
+    {
+      "arg_id": "A315_2",
+      "argument": "機微情報を含むエラーログの取り扱いに対する懸念がある",
+      "x": 7.15205,
+      "y": 0.5527378,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_9",
+        "2_97"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/315"
+    },
+    {
+      "arg_id": "A310_0",
+      "argument": "LLMの出力結果に対する手動修正機能が必要である",
+      "x": 3.5207257,
+      "y": 9.341997,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_5",
+        "2_0"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/310"
+    },
+    {
+      "arg_id": "A310_1",
+      "argument": "不適切な表現や重複が含まれる場合に人間が修正できる仕組みが求められている",
+      "x": 7.1406665,
+      "y": 4.0839505,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_8",
+        "2_3"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/310"
+    },
+    {
+      "arg_id": "A310_2",
+      "argument": "編集内容を反映するためのインターフェースが不足している",
+      "x": 4.400476,
+      "y": 3.2977285,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_1",
+        "2_44"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/310"
+    },
+    {
+      "arg_id": "A310_3",
+      "argument": "編集履歴の管理と透明性の確保が重要である",
+      "x": 4.433639,
+      "y": 3.2066443,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_1",
+        "2_44"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/310"
+    },
+    {
+      "arg_id": "A308_0",
+      "argument": "広聴 AI の導入における技術的なハードルが高い",
+      "x": 8.138101,
+      "y": -0.76457995,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_10",
+        "2_10"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/308"
+    },
+    {
+      "arg_id": "A308_1",
+      "argument": "ソフトウェアインストールや環境構築が難しいユーザーへの配慮が不足している",
+      "x": 9.934629,
+      "y": 2.6121435,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_6",
+        "2_46"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/308"
+    },
+    {
+      "arg_id": "A308_2",
+      "argument": "ユーザーが簡単に広聴 AI 環境を構築できる仕組みが必要である",
+      "x": 8.339981,
+      "y": -0.6850703,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_10",
+        "2_10"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/308"
+    },
+    {
+      "arg_id": "A308_3",
+      "argument": "機微情報を扱う際のセキュリティリスクへの対策が求められる",
+      "x": 7.9040165,
+      "y": 1.703109,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_10",
+        "2_57"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/308"
+    },
+    {
+      "arg_id": "A308_4",
+      "argument": "ニーズの確認と導入のタイミングについての検討が必要である",
+      "x": 8.539633,
+      "y": 3.7270398,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_8",
+        "2_35"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/308"
+    },
+    {
+      "arg_id": "A306_0",
+      "argument": "ユーザーが操作方法を理解しにくいUI/UXの改善が必要である",
+      "x": 5.4893174,
+      "y": 1.9136542,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_9",
+        "2_96"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/306"
+    },
+    {
+      "arg_id": "A306_1",
+      "argument": "ズーム機能の操作性が不十分である",
+      "x": 5.0873427,
+      "y": 1.8629606,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_2",
+        "2_54"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/306"
+    },
+    {
+      "arg_id": "A306_2",
+      "argument": "濃い意見グループのクラスタの所属が不明瞭である",
+      "x": 7.169442,
+      "y": 6.246164,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_4",
+        "2_18"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/306"
+    },
+    {
+      "arg_id": "A306_3",
+      "argument": "情報の視覚的表現が不足している",
+      "x": 4.4239697,
+      "y": 1.779031,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_2",
+        "2_40"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/306"
+    },
+    {
+      "arg_id": "A305_0",
+      "argument": "ユーザーの入力負担を軽減する必要がある",
+      "x": 5.7079215,
+      "y": 2.1086204,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_9",
+        "2_43"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/305"
+    },
+    {
+      "arg_id": "A305_1",
+      "argument": "入力漏れによるエラーを防ぐための対策が求められている",
+      "x": 6.7175856,
+      "y": 0.8397035,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_10",
+        "2_34"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/305"
+    },
+    {
+      "arg_id": "A305_2",
+      "argument": "CSVの内容から自動生成する機能が必要である",
+      "x": 7.440295,
+      "y": 2.3921793,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_7",
+        "2_67"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/305"
+    },
+    {
+      "arg_id": "A295_0",
+      "argument": "OpenAI APIのRate Limitによるエラーが頻発している",
+      "x": 9.054552,
+      "y": 0.4817053,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_10",
+        "2_5"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/295"
+    },
+    {
+      "arg_id": "A295_1",
+      "argument": "特にTier1ユーザーに対する利用制限が厳しく、レポート生成が遅延または失敗する",
+      "x": 3.7781377,
+      "y": 3.0892882,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_1",
+        "2_33"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/295"
+    },
+    {
+      "arg_id": "A295_2",
+      "argument": "Rate Limitエラー発生時に不完全なレポートが生成されることがある",
+      "x": 3.9000828,
+      "y": 3.0934994,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_1",
+        "2_33"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/295"
+    },
+    {
+      "arg_id": "A295_3",
+      "argument": "ユーザーがレポートの不完全さやRate Limitの影響に気づきにくい状態である",
+      "x": 3.846793,
+      "y": 3.0442054,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_1",
+        "2_33"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/295"
+    },
+    {
+      "arg_id": "A294_0",
+      "argument": "プロットグラフにおけるラベルの重なりが判読を困難にしている",
+      "x": 5.209808,
+      "y": 2.8962197,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_2",
+        "2_17"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/294"
+    },
+    {
+      "arg_id": "A294_1",
+      "argument": "詳細な分析のためにクラスタを細かく分けることが視認性の低下を招いている",
+      "x": 7.231962,
+      "y": 6.121698,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_4",
+        "2_18"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/294"
+    },
+    {
+      "arg_id": "A294_2",
+      "argument": "ユーザーがラベルの表示を選択できる機能が必要である",
+      "x": 5.271331,
+      "y": 2.80427,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_2",
+        "2_17"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/294"
+    },
+    {
+      "arg_id": "A294_3",
+      "argument": "ラベルの重なりを回避するためのアルゴリズムが求められている",
+      "x": 5.3261642,
+      "y": 2.9042978,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_2",
+        "2_17"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/294"
+    },
+    {
+      "arg_id": "A294_4",
+      "argument": "インタラクティブなラベル操作機能が不足している",
+      "x": 5.2128096,
+      "y": 2.7924361,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_2",
+        "2_17"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/294"
+    },
+    {
+      "arg_id": "A294_5",
+      "argument": "ズームレベルに応じたラベル表示の制御が必要である",
+      "x": 5.2056007,
+      "y": 2.6734018,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_2",
+        "2_17"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/294"
+    },
+    {
+      "arg_id": "A293_0",
+      "argument": "レポート生成の修正プロセスが煩雑で時間がかかる",
+      "x": 3.7521467,
+      "y": 3.5957618,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_1",
+        "2_73"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/293"
+    },
+    {
+      "arg_id": "A293_1",
+      "argument": "ユーザーがレポート表示画面で直接プロンプトを編集できないため、効率が悪い",
+      "x": 4.0358973,
+      "y": 2.933911,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_1",
+        "2_33"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/293"
+    },
+    {
+      "arg_id": "A293_2",
+      "argument": "プロンプトの微調整を行う際の手間が大きな負担となっている",
+      "x": 6.4366965,
+      "y": 2.6944888,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_3",
+        "2_12"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/293"
+    },
+    {
+      "arg_id": "A293_3",
+      "argument": "権限管理が適切に行われていない場合、誤ったユーザーがプロンプトを編集できるリスクがある",
+      "x": 6.141231,
+      "y": 1.8544127,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_9",
+        "2_29"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/293"
+    },
+    {
+      "arg_id": "A292_0",
+      "argument": "非エンジニアにとってOpenAI APIの課金設定が分かりにくい",
+      "x": 9.171335,
+      "y": 0.4383081,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_10",
+        "2_5"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/292"
+    },
+    {
+      "arg_id": "A292_1",
+      "argument": "OpenAI APIの利用とChatGPT Plusの混同が生じている",
+      "x": 9.080079,
+      "y": 0.5776664,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_10",
+        "2_5"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/292"
+    },
+    {
+      "arg_id": "A292_2",
+      "argument": "設定不備によるQuota超過エラーが発生している",
+      "x": 6.7924857,
+      "y": 0.9833859,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_10",
+        "2_34"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/292"
+    },
+    {
+      "arg_id": "A292_3",
+      "argument": "課金手続きに関する情報が不足している",
+      "x": 5.332119,
+      "y": 0.71847534,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_9",
+        "2_36"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/292"
+    },
+    {
+      "arg_id": "A290_0",
+      "argument": "階層図の操作性が不十分である",
+      "x": 3.7838762,
+      "y": 1.5416768,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_2",
+        "2_91"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/290"
+    },
+    {
+      "arg_id": "A290_1",
+      "argument": "情報表示が分かりにくい",
+      "x": 4.396939,
+      "y": 1.9081329,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_2",
+        "2_40"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/290"
+    },
+    {
+      "arg_id": "A290_2",
+      "argument": "ユーザーが階層図の構造を理解しにくい",
+      "x": 3.8030078,
+      "y": 1.4819943,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_2",
+        "2_21"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/290"
+    },
+    {
+      "arg_id": "A290_3",
+      "argument": "表示状態がリセットされることが不便である",
+      "x": 6.301589,
+      "y": 1.4967605,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_9",
+        "2_27"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/290"
+    },
+    {
+      "arg_id": "A290_4",
+      "argument": "階層の命名規則が不明確である",
+      "x": 3.8016856,
+      "y": 1.4733022,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_2",
+        "2_21"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/290"
+    },
+    {
+      "arg_id": "A290_5",
+      "argument": "戻るボタンが欠如しているため操作が煩雑である",
+      "x": 5.312131,
+      "y": 1.7811508,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_2",
+        "2_54"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/290"
+    },
+    {
+      "arg_id": "A289_0",
+      "argument": "自治体ユーザーにとっての導入ハードルが高い",
+      "x": 7.6137867,
+      "y": -0.22615968,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_10",
+        "2_45"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/289"
+    },
+    {
+      "arg_id": "A289_1",
+      "argument": "DockerやGitの知識がないユーザーへの配慮が不足している",
+      "x": 10.613798,
+      "y": 2.8059843,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_6",
+        "2_28"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/289"
+    },
+    {
+      "arg_id": "A289_2",
+      "argument": "非エンジニアでも簡単に利用できるインストール方法が必要である",
+      "x": 9.813161,
+      "y": 2.522355,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_6",
+        "2_46"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/289"
+    },
+    {
+      "arg_id": "A289_3",
+      "argument": "セキュリティ制限のある環境での利用を考慮した配布方法が求められている",
+      "x": 8.145116,
+      "y": 1.6946732,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_10",
+        "2_57"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/289"
+    },
+    {
+      "arg_id": "A287_0",
+      "argument": "Windowsユーザー向けのセットアップ手順が不十分である",
+      "x": 10.163784,
+      "y": 2.2641146,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_6",
+        "2_13"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/287"
+    },
+    {
+      "arg_id": "A287_1",
+      "argument": "Windows環境特有の問題に対する情報が不足している",
+      "x": 10.185179,
+      "y": 2.0437202,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_6",
+        "2_13"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/287"
+    },
+    {
+      "arg_id": "A287_2",
+      "argument": "非エンジニアやITスキルに不安のあるユーザーにとって導入のハードルが高い",
+      "x": 7.600938,
+      "y": -0.19796786,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_10",
+        "2_45"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/287"
+    },
+    {
+      "arg_id": "A287_3",
+      "argument": "README.mdがUNIX系環境を前提としているため、Windowsユーザーが困難を感じる",
+      "x": 10.166882,
+      "y": 2.209672,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_6",
+        "2_13"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/287"
+    },
+    {
+      "arg_id": "A287_4",
+      "argument": "必要なソフトウェアのインストール手順が明確でない",
+      "x": 9.912652,
+      "y": 2.4816573,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_6",
+        "2_46"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/287"
+    },
+    {
+      "arg_id": "A287_5",
+      "argument": "環境変数の設定や隠しファイルの扱いに関する情報が不足している",
+      "x": 9.387184,
+      "y": 2.6531076,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_6",
+        "2_64"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/287"
+    },
+    {
+      "arg_id": "A287_6",
+      "argument": "コマンドの違いに関する説明が不十分である",
+      "x": 6.339548,
+      "y": 1.3565447,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_9",
+        "2_27"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/287"
+    },
+    {
+      "arg_id": "A287_7",
+      "argument": "Windows特有のエラーへの対処法が明確に示されていない",
+      "x": 10.166863,
+      "y": 2.1886764,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_6",
+        "2_13"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/287"
+    },
+    {
+      "arg_id": "A285_0",
+      "argument": "現在のLLMの選択肢が限られており、ユーザーのニーズに応えられていない",
+      "x": 3.4322777,
+      "y": 9.389358,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_5",
+        "2_0"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/285"
+    },
+    {
+      "arg_id": "A285_1",
+      "argument": "複数のLLMに対応することで、ユーザーの利便性が向上する",
+      "x": 3.352573,
+      "y": 9.200877,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_5",
+        "2_0"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/285"
+    },
+    {
+      "arg_id": "A285_2",
+      "argument": "異なるLLMの統一的な利用ができないことが不便である",
+      "x": 3.5082028,
+      "y": 9.365355,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_5",
+        "2_0"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/285"
+    },
+    {
+      "arg_id": "A283_0",
+      "argument": "全画面表示時の要約文の表示が不安定である",
+      "x": 4.3304935,
+      "y": 1.6253594,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_2",
+        "2_40"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/283"
+    },
+    {
+      "arg_id": "A283_1",
+      "argument": "ユーザーインターフェースの視認性が損なわれる可能性がある",
+      "x": 5.639071,
+      "y": 1.3716937,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_9",
+        "2_7"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/283"
+    },
+    {
+      "arg_id": "A283_2",
+      "argument": "全画面表示機能の信頼性が不足している",
+      "x": 4.3877106,
+      "y": 1.565028,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_2",
+        "2_40"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/283"
+    },
+    {
+      "arg_id": "A281_0",
+      "argument": "年齢層や居住エリアでの比較分析が困難である",
+      "x": 3.738991,
+      "y": 1.5799006,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_2",
+        "2_91"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/281"
+    },
+    {
+      "arg_id": "A281_1",
+      "argument": "異なるデータ集合を別々に分析することが非効率である",
+      "x": 7.924166,
+      "y": 5.050464,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_8",
+        "2_48"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/281"
+    },
+    {
+      "arg_id": "A281_2",
+      "argument": "フィルタリング機能を用いたデータの要約や比較が求められている",
+      "x": 4.738482,
+      "y": 2.6784594,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_2",
+        "2_68"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/281"
+    },
+    {
+      "arg_id": "A281_3",
+      "argument": "過去に実装された機能が現在のシステムに適用されていない",
+      "x": 8.465236,
+      "y": 2.4566288,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_7",
+        "2_92"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/281"
+    },
+    {
+      "arg_id": "A281_4",
+      "argument": "クライアントサイドの表示方法の変更が機能移植の障害となっている",
+      "x": 6.2212253,
+      "y": 1.0454199,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_9",
+        "2_87"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/281"
+    },
+    {
+      "arg_id": "A280_0",
+      "argument": "パブコメデータの整備が必要である",
+      "x": 7.861058,
+      "y": 3.5256798,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_7",
+        "2_53"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/280"
+    },
+    {
+      "arg_id": "A280_1",
+      "argument": "実験のためのデータ形式が不足している",
+      "x": 8.292896,
+      "y": 4.156718,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_8",
+        "2_9"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/280"
+    },
+    {
+      "arg_id": "A280_2",
+      "argument": "データ整備のための手段や方法が明確でない",
+      "x": 9.5971365,
+      "y": 2.7607503,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_6",
+        "2_46"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/280"
+    },
+    {
+      "arg_id": "A271_0",
+      "argument": "ユーザーが静的ファイルのホスティング方法を理解できていない",
+      "x": 5.8071513,
+      "y": 0.71864426,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_9",
+        "2_19"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/271"
+    },
+    {
+      "arg_id": "A271_1",
+      "argument": "ホスティングには専門的な知識が必要であるため、敷居が高い",
+      "x": 6.5218287,
+      "y": 4.78034,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_4",
+        "2_37"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/271"
+    },
+    {
+      "arg_id": "A271_2",
+      "argument": "ホスティング方法に関する明確なマニュアルが不足している",
+      "x": 6.5387588,
+      "y": 4.7016287,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_4",
+        "2_37"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/271"
+    },
+    {
+      "arg_id": "A271_3",
+      "argument": "利用者が選択できるホスティングサービスの情報が不十分である",
+      "x": 5.151,
+      "y": 0.62246233,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_9",
+        "2_36"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/271"
+    },
+    {
+      "arg_id": "A266_0",
+      "argument": "クラスタ数が増加すると散布図上でクラスタラベルが重なり、視認性が低下する",
+      "x": 7.1101084,
+      "y": 6.1706343,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_4",
+        "2_18"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/266"
+    },
+    {
+      "arg_id": "A266_1",
+      "argument": "クラスタ数の上限が現在の表示能力に制約されているため、柔軟な設定ができない",
+      "x": 7.0394344,
+      "y": 6.1859922,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_4",
+        "2_18"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/266"
+    },
+    {
+      "arg_id": "A266_2",
+      "argument": "ユーザーが必要な情報を得るためのラベル表示の工夫が求められている",
+      "x": 5.152189,
+      "y": 2.432846,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_2",
+        "2_17"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/266"
+    },
+    {
+      "arg_id": "A255_0",
+      "argument": "ChatGPTの政治利用に関する制約がビジネスに影響を与える可能性がある",
+      "x": 8.897865,
+      "y": 1.3970044,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_10",
+        "2_50"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/255"
+    },
+    {
+      "arg_id": "A255_1",
+      "argument": "代替手段としてのGeminiの利用方法を検討する必要がある",
+      "x": 5.4539313,
+      "y": 4.8498807,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_4",
+        "2_16"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/255"
+    },
+    {
+      "arg_id": "A255_2",
+      "argument": "OpenAI以外のサービスを利用するための具体的な手順やマニュアルが不足している",
+      "x": 9.084239,
+      "y": 0.36284733,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_10",
+        "2_5"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/255"
+    },
+    {
+      "arg_id": "A254_0",
+      "argument": "Windows環境でのトラブルシューティングガイドが不足している",
+      "x": 10.100663,
+      "y": 2.0701203,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_6",
+        "2_13"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/254"
+    },
+    {
+      "arg_id": "A254_1",
+      "argument": "Windowsユーザーからのフィードバックが得られていない",
+      "x": 5.8870153,
+      "y": 1.7722585,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_9",
+        "2_29"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/254"
+    },
+    {
+      "arg_id": "A254_2",
+      "argument": "Windows環境での実行方法に関する明確な指針がない",
+      "x": 10.290283,
+      "y": 2.226737,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_6",
+        "2_13"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/254"
+    },
+    {
+      "arg_id": "A254_3",
+      "argument": "Windows環境でのスムーズな実行方法が不明確である",
+      "x": 10.258766,
+      "y": 2.1309934,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_6",
+        "2_13"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/254"
+    },
+    {
+      "arg_id": "A253_0",
+      "argument": "ローカルファイルシステムからの静的HTML読み込み時にエラー表示が不足している",
+      "x": 7.287488,
+      "y": 1.6824187,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_10",
+        "2_1"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/253"
+    },
+    {
+      "arg_id": "A253_1",
+      "argument": "ユーザーに対するエラー解決のための情報提供が不十分である",
+      "x": 5.6200356,
+      "y": 0.66502523,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_9",
+        "2_19"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/253"
+    },
+    {
+      "arg_id": "A253_2",
+      "argument": "エラーメッセージと解決策へのリンクを表示する機能が必要である",
+      "x": 6.1860027,
+      "y": 0.3503602,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_9",
+        "2_80"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/253"
+    },
+    {
+      "arg_id": "A250_0",
+      "argument": "情報量を増やすために原文を表示する機能が必要である",
+      "x": 4.7226973,
+      "y": 2.4502,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_2",
+        "2_70"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/250"
+    },
+    {
+      "arg_id": "A250_1",
+      "argument": "階層図の最下部に到達した際の情報提供が不十分である",
+      "x": 3.903791,
+      "y": 1.349158,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_2",
+        "2_21"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/250"
+    },
+    {
+      "arg_id": "A250_2",
+      "argument": "利用規約に基づく情報表示の明確化が求められる",
+      "x": 4.7119637,
+      "y": 2.1966434,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_2",
+        "2_2"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/250"
+    },
+    {
+      "arg_id": "A236_0",
+      "argument": "パブコメ運用における職員の負担軽減が求められている",
+      "x": 7.350941,
+      "y": 3.538574,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_8",
+        "2_20"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/236"
+    },
+    {
+      "arg_id": "A236_1",
+      "argument": "意見概要と考え方のセット公開が必要である",
+      "x": 5.3862877,
+      "y": 3.5142887,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_3",
+        "2_82"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/236"
+    },
+    {
+      "arg_id": "A236_2",
+      "argument": "回答案の事前記入による効率化が期待されている",
+      "x": 6.6918063,
+      "y": 3.4905338,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_3",
+        "2_47"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/236"
+    },
+    {
+      "arg_id": "A236_3",
+      "argument": "公式文書を参照した回答の実現が目指されている",
+      "x": 6.4219155,
+      "y": 3.509473,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_3",
+        "2_89"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/236"
+    },
+    {
+      "arg_id": "A227_0",
+      "argument": "設定画面のユーザーインターフェースが使いにくい",
+      "x": 5.1298003,
+      "y": 1.7374178,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_2",
+        "2_54"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/227"
+    },
+    {
+      "arg_id": "A227_1",
+      "argument": "選択肢の設定が不明確である",
+      "x": 6.1646986,
+      "y": 5.2478466,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_4",
+        "2_38"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/227"
+    },
+    {
+      "arg_id": "A227_2",
+      "argument": "濃い意見グループの設定が適切に行えない可能性がある",
+      "x": 5.4489813,
+      "y": 3.5512824,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_3",
+        "2_82"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/227"
+    },
+    {
+      "arg_id": "A227_3",
+      "argument": "将来的な機能拡張に対する配慮が不足している",
+      "x": 8.474369,
+      "y": 2.4851046,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_7",
+        "2_92"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/227"
+    },
+    {
+      "arg_id": "A223_0",
+      "argument": "クライアント開発者がAPIキーなしで開発に参加できる環境が必要である",
+      "x": 8.113088,
+      "y": 1.2585711,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_10",
+        "2_22"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/223"
+    },
+    {
+      "arg_id": "A223_1",
+      "argument": "AI処理済みの結果を簡単に入手できる仕組みが求められている",
+      "x": 7.773805,
+      "y": 4.399173,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_8",
+        "2_31"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/223"
+    },
+    {
+      "arg_id": "A223_2",
+      "argument": "開発プロセスの効率を向上させるための改善が必要である",
+      "x": 6.9530597,
+      "y": 3.3477378,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_3",
+        "2_74"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/223"
+    },
+    {
+      "arg_id": "A221_0",
+      "argument": "使うまでの準備工数に対する認識のギャップが存在する",
+      "x": 6.640005,
+      "y": 4.3459287,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_4",
+        "2_23"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/221"
+    },
+    {
+      "arg_id": "A221_1",
+      "argument": "プロンプトやクラスタ数のチューニングに関する理解が不足している",
+      "x": 7.0465965,
+      "y": 6.1427865,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_4",
+        "2_18"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/221"
+    },
+    {
+      "arg_id": "A221_2",
+      "argument": "試行錯誤の負担を軽減する仕組みが必要である",
+      "x": 7.090584,
+      "y": 4.0799627,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_8",
+        "2_3"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/221"
+    },
+    {
+      "arg_id": "A221_3",
+      "argument": "自治体の典型的な使い方を示す型が必要である",
+      "x": 5.987616,
+      "y": 4.504797,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_4",
+        "2_85"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/221"
+    },
+    {
+      "arg_id": "A221_4",
+      "argument": "大量データ処理時の確認プロセスが不足している",
+      "x": 7.960382,
+      "y": 3.7154877,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_8",
+        "2_86"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/221"
+    },
+    {
+      "arg_id": "A213_0",
+      "argument": "現在の表示が実際の処理内容と一致していないため、ユーザーに誤解を与える可能性がある",
+      "x": 5.935309,
+      "y": 1.0987476,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_9",
+        "2_42"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/213"
+    },
+    {
+      "arg_id": "A213_1",
+      "argument": "表示方法の改善が必要である",
+      "x": 6.709918,
+      "y": 2.9578893,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_3",
+        "2_12"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/213"
+    },
+    {
+      "arg_id": "A211_0",
+      "argument": "Out of Memoryエラー時の処理が不十分である",
+      "x": 7.103414,
+      "y": 1.216102,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_10",
+        "2_88"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/211"
+    },
+    {
+      "arg_id": "A211_1",
+      "argument": "エラー発生時のユーザーへの情報提供が不足している",
+      "x": 5.702165,
+      "y": 0.5328409,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_9",
+        "2_19"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/211"
+    },
+    {
+      "arg_id": "A211_2",
+      "argument": "未完了のレポートの状態管理が適切に行われていない",
+      "x": 3.786814,
+      "y": 3.8426578,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_1",
+        "2_76"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/211"
+    },
+    {
+      "arg_id": "A190_0",
+      "argument": "現在のextraction処理は効率が悪く、時間がかかる",
+      "x": 7.498203,
+      "y": 3.3922293,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_8",
+        "2_20"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/190"
+    },
+    {
+      "arg_id": "A190_1",
+      "argument": "OpenAI APIのrate limitがボトルネックになっている",
+      "x": 9.086307,
+      "y": 0.5432636,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_10",
+        "2_5"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/190"
+    },
+    {
+      "arg_id": "A190_2",
+      "argument": "複数のコメントを同時に処理することで、処理速度を向上させる必要がある",
+      "x": 6.5728874,
+      "y": 3.6105688,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_3",
+        "2_47"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/190"
+    },
+    {
+      "arg_id": "A190_3",
+      "argument": "出力フォーマットの変更に伴い、周辺実装の見直しが求められる",
+      "x": 6.884694,
+      "y": 3.8357203,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_8",
+        "2_3"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/190"
+    },
+    {
+      "arg_id": "A186_0",
+      "argument": "CSVデータの変換処理が冗長であり、効率的ではない",
+      "x": 7.710599,
+      "y": 3.173403,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_7",
+        "2_53"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/186"
+    },
+    {
+      "arg_id": "A186_1",
+      "argument": "データ量が多い場合の通信サイズやメモリ使用量が問題である",
+      "x": 8.016694,
+      "y": 3.8829272,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_8",
+        "2_86"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/186"
+    },
+    {
+      "arg_id": "A186_2",
+      "argument": "フロントエンドの処理負担を軽減する必要がある",
+      "x": 7.3544416,
+      "y": 3.499112,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_8",
+        "2_20"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/186"
+    },
+    {
+      "arg_id": "A186_3",
+      "argument": "バックエンドでのデータ処理方法を改善する必要がある",
+      "x": 7.7959824,
+      "y": 3.3830173,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_7",
+        "2_53"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/186"
+    },
+    {
+      "arg_id": "A177_0",
+      "argument": "コマンド実行時のパラメータ処理における特殊文字の扱いが不適切である",
+      "x": 6.8455796,
+      "y": 1.4798365,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_10",
+        "2_78"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/177"
+    },
+    {
+      "arg_id": "A177_1",
+      "argument": "ユーザーが意図した通りにコマンドが解釈されない問題が存在する",
+      "x": 6.1962743,
+      "y": 1.0293729,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_9",
+        "2_87"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/177"
+    },
+    {
+      "arg_id": "A177_2",
+      "argument": "記号を使用する際の安全性や使いやすさが考慮されていない",
+      "x": 7.7516394,
+      "y": 1.901504,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_10",
+        "2_32"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/177"
+    },
+    {
+      "arg_id": "A176_0",
+      "argument": "既存の階層クラスタリングアルゴリズムは小規模データに対して効果的でない",
+      "x": 7.463166,
+      "y": 5.991172,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_4",
+        "2_55"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/176"
+    },
+    {
+      "arg_id": "A176_1",
+      "argument": "クラスタリングの品質がembeddingの品質に依存しているため、改善が必要である",
+      "x": 7.172356,
+      "y": 5.961353,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_4",
+        "2_93"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/176"
+    },
+    {
+      "arg_id": "A176_2",
+      "argument": "LLMベースの分類機能の実装が求められている",
+      "x": 3.622057,
+      "y": 9.324083,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_5",
+        "2_0"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/176"
+    },
+    {
+      "arg_id": "A176_3",
+      "argument": "既存のクラスタリングアルゴリズムと新しい機能の共存方法が課題である",
+      "x": 7.2425876,
+      "y": 5.8271165,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_4",
+        "2_93"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/176"
+    },
+    {
+      "arg_id": "A176_4",
+      "argument": "レポートの見せ方が変わる可能性があるため、出力形式の再検討が必要である",
+      "x": 4.0452237,
+      "y": 3.7161887,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_1",
+        "2_15"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/176"
+    },
+    {
+      "arg_id": "A173_0",
+      "argument": "グラウンディング処理の実験が必要である",
+      "x": 7.9890876,
+      "y": 4.143598,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_8",
+        "2_86"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/173"
+    },
+    {
+      "arg_id": "A173_1",
+      "argument": "実験結果の確認プロセスが未整備である",
+      "x": 8.223601,
+      "y": 4.119558,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_8",
+        "2_9"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/173"
+    },
+    {
+      "arg_id": "A173_2",
+      "argument": "プロダクトへの機能実装に向けた検証が求められている",
+      "x": 8.20254,
+      "y": 3.5072062,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_8",
+        "2_35"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/173"
+    },
+    {
+      "arg_id": "A172_0",
+      "argument": "クラスタ説明文の信頼性を向上させる必要がある",
+      "x": 7.1686916,
+      "y": 6.173295,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_4",
+        "2_18"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/172"
+    },
+    {
+      "arg_id": "A172_1",
+      "argument": "意見の根拠を簡単に参照できる仕組みが不足している",
+      "x": 5.5346937,
+      "y": 3.3874404,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_3",
+        "2_82"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/172"
+    },
+    {
+      "arg_id": "A172_2",
+      "argument": "レポートの説得力を高めるためのデータの紐づけが求められている",
+      "x": 3.9365032,
+      "y": 3.454675,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_1",
+        "2_98"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/172"
+    },
+    {
+      "arg_id": "A170_0",
+      "argument": "コメントの真偽を確認する機能が不足している",
+      "x": 8.349616,
+      "y": 2.9138803,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_7",
+        "2_14"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/170"
+    },
+    {
+      "arg_id": "A170_1",
+      "argument": "虚偽の情報が分析結果に影響を与える可能性がある",
+      "x": 8.2953,
+      "y": 3.6133769,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_8",
+        "2_35"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/170"
+    },
+    {
+      "arg_id": "A170_2",
+      "argument": "ファクトチェックの結果を分析プロセスに組み込む必要がある",
+      "x": 7.8166904,
+      "y": 4.3417993,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_8",
+        "2_31"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/170"
+    },
+    {
+      "arg_id": "A170_3",
+      "argument": "実装前に検証を行い、結果の妥当性を評価する重要性がある",
+      "x": 8.457385,
+      "y": 3.925673,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_8",
+        "2_9"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/170"
+    },
+    {
+      "arg_id": "A143_0",
+      "argument": "クラスタリング結果の妥当性を効率的に検証する手段が不足している",
+      "x": 7.1561174,
+      "y": 6.037261,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_4",
+        "2_93"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/143"
+    },
+    {
+      "arg_id": "A143_1",
+      "argument": "人手によるクラスタ評価が労力的に困難である",
+      "x": 7.006232,
+      "y": 6.0712376,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_4",
+        "2_18"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/143"
+    },
+    {
+      "arg_id": "A143_2",
+      "argument": "自動評価機能の実装が必要である",
+      "x": 7.372705,
+      "y": 2.8275545,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_7",
+        "2_52"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/143"
+    },
+    {
+      "arg_id": "A130_0",
+      "argument": "非エンジニアが貢献できる方法が明確に示されていない",
+      "x": 9.588895,
+      "y": 2.5852177,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_6",
+        "2_46"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/130"
+    },
+    {
+      "arg_id": "A130_1",
+      "argument": "貢献のための具体的なアクションが言語化されていない",
+      "x": 6.1725583,
+      "y": 3.9598424,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_4",
+        "2_62"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/130"
+    },
+    {
+      "arg_id": "A130_2",
+      "argument": "タスクの優先付けに対する貢献の仕方が不明瞭である",
+      "x": 6.411979,
+      "y": 4.1157813,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_4",
+        "2_62"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/130"
+    },
+    {
+      "arg_id": "A121_0",
+      "argument": "縦長画面での散布図の表示が適切でない",
+      "x": 4.2215405,
+      "y": 1.5622935,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_2",
+        "2_40"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/121"
+    },
+    {
+      "arg_id": "A121_1",
+      "argument": "アスペクト比の管理が不十分である",
+      "x": 7.0725775,
+      "y": 4.470233,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_8",
+        "2_41"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/121"
+    },
+    {
+      "arg_id": "A121_2",
+      "argument": "表示の見やすさと理想的なアスペクト比のバランスが取れていない",
+      "x": 7.019697,
+      "y": 4.484426,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_8",
+        "2_41"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/121"
+    },
+    {
+      "arg_id": "A111_0",
+      "argument": "専門用語の理解を助けるための解説が不足している",
+      "x": 4.950333,
+      "y": 2.0729065,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_2",
+        "2_90"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/111"
+    },
+    {
+      "arg_id": "A111_1",
+      "argument": "用語解説ページの必要性がある",
+      "x": 4.850412,
+      "y": 2.313588,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_2",
+        "2_70"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/111"
+    },
+    {
+      "arg_id": "A111_2",
+      "argument": "用語の意味や背景を明確にする情報が求められている",
+      "x": 4.7283125,
+      "y": 2.2089748,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_2",
+        "2_2"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/111"
+    },
+    {
+      "arg_id": "A104_0",
+      "argument": "ツールの利用状況を把握する手段が不足している",
+      "x": 6.2555513,
+      "y": 4.4508743,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_4",
+        "2_23"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/104"
+    },
+    {
+      "arg_id": "A104_1",
+      "argument": "利用者の行動を分析するためのデータ収集の仕組みが必要である",
+      "x": 4.963167,
+      "y": 1.4166338,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_9",
+        "2_69"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/104"
+    },
+    {
+      "arg_id": "A104_2",
+      "argument": "ツールの利用状況を広報活動や開発に活用するための情報が不足している",
+      "x": 5.9287124,
+      "y": 4.3933287,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_4",
+        "2_85"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/104"
+    },
+    {
+      "arg_id": "A97_0",
+      "argument": "CSVフォーマットエラーの情報が不十分である",
+      "x": 7.2149105,
+      "y": 1.953309,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_7",
+        "2_67"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/97"
+    },
+    {
+      "arg_id": "A97_1",
+      "argument": "ユーザーがエラーの原因を特定できない状況がある",
+      "x": 6.1652684,
+      "y": 0.5718357,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_9",
+        "2_61"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/97"
+    },
+    {
+      "arg_id": "A97_2",
+      "argument": "エラー表示の改善が必要である",
+      "x": 6.648004,
+      "y": 0.6819261,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_9",
+        "2_11"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/97"
+    },
+    {
+      "arg_id": "A79_0",
+      "argument": "CSVアップロード時のコストに対するユーザーの不安が存在する",
+      "x": 5.6067557,
+      "y": 1.8256813,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_9",
+        "2_96"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/79"
+    },
+    {
+      "arg_id": "A79_1",
+      "argument": "コスト見積もり機能が不足しているため、ユーザーが安心して利用できない",
+      "x": 5.16278,
+      "y": 1.2563145,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_9",
+        "2_69"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/79"
+    },
+    {
+      "arg_id": "A79_2",
+      "argument": "コストに関する情報提供が不十分で、ユーザー体験が損なわれている",
+      "x": 5.281264,
+      "y": 0.9289504,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_9",
+        "2_36"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/79"
+    },
+    {
+      "arg_id": "A60_0",
+      "argument": "階層図の最下層の情報が多すぎて把握しにくい",
+      "x": 3.7863808,
+      "y": 1.4948094,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_2",
+        "2_91"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/60"
+    },
+    {
+      "arg_id": "A60_1",
+      "argument": "ユーザーが必要な情報を効率的に得られるように表示を改善する必要がある",
+      "x": 5.1597004,
+      "y": 2.0594468,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_2",
+        "2_90"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/60"
+    },
+    {
+      "arg_id": "A60_2",
+      "argument": "フィルタ機能を通じて情報の可視化を向上させるべきである",
+      "x": 4.8744884,
+      "y": 2.5306847,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_2",
+        "2_70"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/60"
+    },
+    {
+      "arg_id": "A56_0",
+      "argument": "AIによる要約だけでなく、元コメントも参照できる機能が求められている",
+      "x": 6.053026,
+      "y": 3.3642874,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_3",
+        "2_39"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/56"
+    },
+    {
+      "arg_id": "A56_1",
+      "argument": "表示内容の視認性を保ちながら元コメントを表示する方法が必要である",
+      "x": 6.0513444,
+      "y": 3.3287728,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_3",
+        "2_39"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/56"
+    },
+    {
+      "arg_id": "A56_2",
+      "argument": "引用元の規約に配慮した上での元コメント表示の実装が重要である",
+      "x": 5.9441442,
+      "y": 3.3950596,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_3",
+        "2_39"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/56"
+    },
+    {
+      "arg_id": "A55_0",
+      "argument": "濃いクラスタのしきい値のデフォルト設定が一律で固定されているため柔軟性が欠けている",
+      "x": 6.902964,
+      "y": 5.9341383,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_4",
+        "2_93"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/55"
+    },
+    {
+      "arg_id": "A55_1",
+      "argument": "レポート出力者がしきい値を変更できる機能が不足している",
+      "x": 3.9114888,
+      "y": 3.9241424,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_1",
+        "2_76"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/55"
+    },
+    {
+      "arg_id": "A55_2",
+      "argument": "出力結果に基づいたしきい値の設定ができるようにする必要がある",
+      "x": 7.2484756,
+      "y": 4.6565638,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_8",
+        "2_41"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/55"
+    },
+    {
+      "arg_id": "A52_0",
+      "argument": "チャート表示とクラスター文章の連動性が欠如している",
+      "x": 7.4272375,
+      "y": 6.1680155,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_4",
+        "2_55"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/52"
+    },
+    {
+      "arg_id": "A52_1",
+      "argument": "ユーザーがチャートを切り替えた際に、関連する情報が自動的に更新されない",
+      "x": 4.675059,
+      "y": 1.7213106,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_2",
+        "2_40"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/52"
+    },
+    {
+      "arg_id": "A44_0",
+      "argument": "クラスタリングのタイトル生成が不十分で、類似クラスタに対して同一のタイトルが生成される問題がある",
+      "x": 7.437511,
+      "y": 6.0705757,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_4",
+        "2_55"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/44"
+    },
+    {
+      "arg_id": "A44_1",
+      "argument": "タイトル生成において、クラスタ間の差異を適切に反映できていない",
+      "x": 7.49579,
+      "y": 6.1578107,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_4",
+        "2_55"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/44"
+    },
+    {
+      "arg_id": "A19_0",
+      "argument": "レポート設定の複製機能が不足している",
+      "x": 3.9428854,
+      "y": 3.9548972,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_1",
+        "2_76"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/19"
+    },
+    {
+      "arg_id": "A19_1",
+      "argument": "ユーザーが設定を変更して再実行する際の手間が大きい",
+      "x": 5.9699516,
+      "y": 1.9881878,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_9",
+        "2_29"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/19"
+    },
+    {
+      "arg_id": "A19_2",
+      "argument": "LLM APIコストの最適化が求められている",
+      "x": 3.5780673,
+      "y": 9.295909,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_5",
+        "2_0"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/19"
+    },
+    {
+      "arg_id": "A19_3",
+      "argument": "レポート出力の効率性を向上させる必要がある",
+      "x": 4.0034375,
+      "y": 3.5669558,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_1",
+        "2_73"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/19"
+    },
+    {
+      "arg_id": "A11_0",
+      "argument": "レポート出力にかかる時間が不明であるため、ユーザーが不安を感じる可能性がある",
+      "x": 3.7505395,
+      "y": 3.0880692,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_1",
+        "2_33"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/11"
+    },
+    {
+      "arg_id": "A11_1",
+      "argument": "ユーザーに対する情報提供が不足している",
+      "x": 5.2328687,
+      "y": 0.8460493,
+      "p": 0,
+      "cluster_ids": [
+        "0",
+        "1_9",
+        "2_36"
+      ],
+      "attributes": null,
+      "url": "https://github.com/digitaldemocracy2030/kouchou-ai/issues/11"
+    }
+  ],
+  "clusters": [
+    {
+      "level": 0,
+      "id": "0",
+      "label": "全体",
+      "takeaway": "",
+      "value": 454,
+      "parent": "",
+      "density_rank_percentile": 0
+    },
+    {
+      "level": 1,
+      "id": "1_9",
+      "label": "ユーザーエクスペリエンスと信頼性の向上",
+      "takeaway": "このクラスタは、ユーザーエクスペリエンスの向上と信頼性の確保に関連する問題を扱っています。具体的には、データ分析の不足、エラーメッセージの不明瞭さ、ユーザーインターフェースの不一致、情報提供の不足、エラー処理の改善要求などが含まれ、これらはすべてユーザーがサービスを安心して利用できるようにするための重要な要素です。",
+      "value": 68,
+      "parent": "0",
+      "density_rank_percentile": 0.7
+    },
+    {
+      "level": 1,
+      "id": "1_8",
+      "label": "データ分析とシステム最適化の課題",
+      "takeaway": "このクラスタは、データ分析の信頼性、効率性、データ品質の向上、システムのパフォーマンス最適化、テスト環境の整備、及びテストの網羅性と品質に関する問題意識を反映しています。特に、データ処理や整形、アルゴリズムの評価、出力改善、データ管理と検証の重要性が強調されており、全体としてデータ分析とシステムの最適化に向けた課題を包括的に捉えています。",
+      "value": 67,
+      "parent": "0",
+      "density_rank_percentile": 0.8
+    },
+    {
+      "level": 1,
+      "id": "1_10",
+      "label": "コード品質とセキュリティの向上",
+      "takeaway": "このクラスタは、ソフトウェア開発におけるコード品質、エラー処理、セキュリティ、可読性、導入ハードルなどの問題意識を反映しています。特に、エラー処理の改善やAPIキー管理、静的HTMLファイルの共有の難しさ、技術的な導入障壁などが挙げられ、これらの要素がソフトウェアの正常な動作やユーザーの利用体験に影響を与えることが示されています。",
+      "value": 61,
+      "parent": "0",
+      "density_rank_percentile": 1.0
+    },
+    {
+      "level": 1,
+      "id": "1_4",
+      "label": "UI/UXツールとクラスタリング手法の最適化",
+      "takeaway": "このクラスタは、UIツールの必要性やクラスタリング手法の限界、モデル評価と選択に関する問題意識を示しており、特に技術的選択肢の検討や情報提供の重要性が強調されています。また、役割整理やタスク優先順位の明確化、ホスティングの敷居の高さなど、実用的なツールや手法の導入に向けた課題も含まれています。",
+      "value": 49,
+      "parent": "0",
+      "density_rank_percentile": 0.9
+    },
+    {
+      "level": 1,
+      "id": "1_1",
+      "label": "レポート管理と生成の最適化",
+      "takeaway": "レポートの公開設定、バックアップ、生成プロセス、ユーザーアクセス、セキュリティ、ドキュメント管理に関する課題を包括的に捉え、効率化と安全性の向上を目指すための問題意識を示す。特に、レポートの出力形式や管理方法の見直し、ユーザーが容易にアクセス・管理できる環境の整備が求められている。",
+      "value": 42,
+      "parent": "0",
+      "density_rank_percentile": 0.2
+    },
+    {
+      "level": 1,
+      "id": "1_7",
+      "label": "システム改善と効率化の課題",
+      "takeaway": "このクラスタは、技術的負債や保守性の問題、環境検証機能の不足、依存パッケージのメンテナンス問題、自動化の問題、データセキュリティ、データ処理の効率化、コードレビューの効率化、個人情報管理、ワークフロー管理、システム機能の不足など、システム全体の改善と作業効率を向上させるための課題を示しています。特に、レビュー時の判断基準の不明確さや、データ管理の方法、Issueの整理機能の欠如が、効率的な作業を妨げていることが強調されています。",
+      "value": 41,
+      "parent": "0",
+      "density_rank_percentile": 0.6
+    },
+    {
+      "level": 1,
+      "id": "1_2",
+      "label": "情報提供とユーザーエクスペリエンスの改善",
+      "takeaway": "このクラスタは、情報の明確化、データ可視化、ユーザーインターフェースの改善に関する問題意識を示しており、特にユーザーが必要な情報を得やすくするための工夫や、視覚的一貫性の確保、UX向上のための提案が含まれています。具体的には、用語の解説、グラフの整合性、階層図の理解促進、リクルーティング資料の充実など、情報の提供方法や表示方法に関する改善点が挙げられています。",
+      "value": 39,
+      "parent": "0",
+      "density_rank_percentile": 0.5
+    },
+    {
+      "level": 1,
+      "id": "1_6",
+      "label": "ソフトウェア開発環境の課題",
+      "takeaway": "このクラスタは、ソフトウェア開発における依存関係管理、環境設定、ユーザビリティ、デプロイメント、ビルドプロセス、セキュリティ、互換性に関する問題を示しています。特に、OS依存の問題や環境変数の設定不備、ユーザーに優しいインストール手順の必要性が強調されており、開発者やユーザーが直面する具体的な課題を反映しています。",
+      "value": 37,
+      "parent": "0",
+      "density_rank_percentile": 0.3
+    },
+    {
+      "level": 1,
+      "id": "1_3",
+      "label": "システム改善と効率化",
+      "takeaway": "意見管理システムやプロンプトの最適化、UIデザイン、開発プロセス、ガイドライン整備など、さまざまなシステムやプロセスの改善を通じて、効率化やユーザー体験の向上を目指す意識が示されている。特に、情報公開や公正な意見収集の重要性、処理効率の向上に関する問題意識も含まれており、全体としてシステムの質を高めるための取り組みが求められている。",
+      "value": 35,
+      "parent": "0",
+      "density_rank_percentile": 0.4
+    },
+    {
+      "level": 1,
+      "id": "1_5",
+      "label": "ローカルLLMの導入と性能",
+      "takeaway": "ローカルLLMの動作速度に関する情報が不足していること、LLMベースの分類機能の実装が求められていること、そしてローカルLLMの導入によってより多くのユーザーが利用できる可能性があることに関する問題意識を示している。",
+      "value": 15,
+      "parent": "0",
+      "density_rank_percentile": 0.1
+    },
+    {
+      "level": 2,
+      "id": "2_0",
+      "label": "ローカルLLMの導入と性能",
+      "takeaway": "ローカルLLMの動作速度に関する情報が不足していること、LLMベースの分類機能の実装が求められていること、そしてローカルLLMの導入によってより多くのユーザーが利用できる可能性があることに関する問題意識を示している。",
+      "value": 15,
+      "parent": "1_5",
+      "density_rank_percentile": 0.33
+    },
+    {
+      "level": 2,
+      "id": "2_10",
+      "label": "技術的ハードルと導入環境",
+      "takeaway": "ユーザーが広聴AIを試すための環境が整っていないことや、導入に際しての技術的なハードルの高さが問題視されている。また、AIを活用したレビュー手法の導入が検討されていることから、技術的な支援や環境整備が求められている。",
+      "value": 12,
+      "parent": "1_10",
+      "density_rank_percentile": 0.45
+    },
+    {
+      "level": 2,
+      "id": "2_5",
+      "label": "利用障壁と混乱",
+      "takeaway": "OpenAIやAzure OpenAIの利用に関するハードルや混乱が存在し、特に自治体などの組織においてアカウント作成がボトルネックとなっている。また、OpenAI APIとChatGPT Plusの混同や、Azure OpenAI Serviceのエラーハンドリングの不十分さが問題視されている。",
+      "value": 11,
+      "parent": "1_10",
+      "density_rank_percentile": 0.22
+    },
+    {
+      "level": 2,
+      "id": "2_20",
+      "label": "パフォーマンス最適化",
+      "takeaway": "フロントエンドおよびバックエンドの処理負担を軽減し、デプロイ処理を最適化する必要性に関する問題意識を示している。",
+      "value": 10,
+      "parent": "1_8",
+      "density_rank_percentile": 0.67
+    },
+    {
+      "level": 2,
+      "id": "2_13",
+      "label": "Windows環境のビルドとセットアップの問題",
+      "takeaway": "Windows環境での実行方法やビルドエラー、セットアップ手順に関する問題意識を示している。",
+      "value": 10,
+      "parent": "1_6",
+      "density_rank_percentile": 0.55
+    },
+    {
+      "level": 2,
+      "id": "2_12",
+      "label": "プロンプト最適化",
+      "takeaway": "プロンプトの微調整に関する負担を軽減し、Devinの使用体験を向上させる方法を探求することに焦点を当てている。",
+      "value": 10,
+      "parent": "1_3",
+      "density_rank_percentile": 0.83
+    },
+    {
+      "level": 2,
+      "id": "2_33",
+      "label": "ユーザーアクセスとレポート管理の改善",
+      "takeaway": "ユーザーがレポートを手軽に閲覧・管理できる環境が整っていないことに関する問題意識。特にTier1ユーザーに対する利用制限が厳しく、レポート生成が遅延または失敗すること、またユーザーがレポートを個別に管理できる機能が不足している点が挙げられる。",
+      "value": 9,
+      "parent": "1_1",
+      "density_rank_percentile": 0.5
+    },
+    {
+      "level": 2,
+      "id": "2_17",
+      "label": "データ可視化の改善",
+      "takeaway": "プロットグラフにおけるラベルの重なりやnull値の処理に関する問題意識を示しており、特にラベルの重なりを回避するためのアルゴリズムの必要性が強調されている。",
+      "value": 9,
+      "parent": "1_2",
+      "density_rank_percentile": 0.65
+    },
+    {
+      "level": 2,
+      "id": "2_36",
+      "label": "情報提供不足",
+      "takeaway": "ユーザーに対する情報提供が不十分であり、特にモデル選択やホスティングサービスに関する情報が不足していることを示す問題意識。",
+      "value": 9,
+      "parent": "1_9",
+      "density_rank_percentile": 0.6
+    },
+    {
+      "level": 2,
+      "id": "2_80",
+      "label": "エラーメッセージの改善",
+      "takeaway": "エラーメッセージが不明瞭でユーザーが原因を理解できないため、より分かりやすくユーザーフレンドリーなメッセージへの改善が求められている。",
+      "value": 8,
+      "parent": "1_9",
+      "density_rank_percentile": 0.79
+    },
+    {
+      "level": 2,
+      "id": "2_18",
+      "label": "クラスタリングの課題",
+      "takeaway": "クラスタリングにおける意見グループの不明瞭さや、プロンプトやクラスタ数の設定に関する理解不足、表示能力による制約など、クラスタリング手法の限界や課題に関する問題意識を示している。",
+      "value": 8,
+      "parent": "1_4",
+      "density_rank_percentile": 0.29
+    },
+    {
+      "level": 2,
+      "id": "2_7",
+      "label": "視認性の低下",
+      "takeaway": "ユーザーにとっての視認性が低下し、認知負荷が高まることで本来の意見が埋もれてしまう問題に関する意識。",
+      "value": 8,
+      "parent": "1_9",
+      "density_rank_percentile": 0.38
+    },
+    {
+      "level": 2,
+      "id": "2_43",
+      "label": "ユーザーエクスペリエンス改善",
+      "takeaway": "新たなユーザー層の獲得やユーザーの手間を減らすための改善、フィードバックを反映する仕組みの必要性に関する問題意識を示している。",
+      "value": 7,
+      "parent": "1_9",
+      "density_rank_percentile": 0.48
+    },
+    {
+      "level": 2,
+      "id": "2_28",
+      "label": "Dockerセキュリティと互換性の問題",
+      "takeaway": "Docker BuildKitを利用したセキュリティ強化、Windows環境でのDockerfileの互換性、Dockerなしでの動作実現に関する問題意識を示している。",
+      "value": 7,
+      "parent": "1_6",
+      "density_rank_percentile": 0.14
+    },
+    {
+      "level": 2,
+      "id": "2_31",
+      "label": "データ処理と整形の必要性",
+      "takeaway": "データの整形や結果の整理に関する問題意識が含まれており、特に前処理や結果の取得において効率的な仕組みが求められていることを示している。",
+      "value": 7,
+      "parent": "1_8",
+      "density_rank_percentile": 0.97
+    },
+    {
+      "level": 2,
+      "id": "2_76",
+      "label": "レポート管理の課題",
+      "takeaway": "レポートに関する責任の所在が不明確であること、設定の複製機能が不足していること、そして多言語表示が読みづらいという問題が含まれており、レポート管理に関する課題を示している。",
+      "value": 7,
+      "parent": "1_1",
+      "density_rank_percentile": 0.31
+    },
+    {
+      "level": 2,
+      "id": "2_57",
+      "label": "セキュリティと型安全性の確保",
+      "takeaway": "セキュリティ制限のある環境での利用や機微情報を扱う際のリスク対策、さらに型安全性の確保が求められている問題意識を反映したラベル。",
+      "value": 6,
+      "parent": "1_10",
+      "density_rank_percentile": 0.74
+    },
+    {
+      "level": 2,
+      "id": "2_46",
+      "label": "ソフトウェアインストールのユーザビリティ",
+      "takeaway": "ソフトウェアのインストール手順が不明確であり、特に非エンジニアのユーザーにとって利用しやすいインストール方法が求められている問題意識を示している。",
+      "value": 6,
+      "parent": "1_6",
+      "density_rank_percentile": 0.88
+    },
+    {
+      "level": 2,
+      "id": "2_4",
+      "label": "ビルドプロセスの改善",
+      "takeaway": "特定の環境設定に依存したビルドプロセスの改善が必要であり、ビルドの正常性を確保するために警告を解消する必要がある。また、ビルドとデプロイの責務が明確に分かれていないことも問題である。",
+      "value": 6,
+      "parent": "1_6",
+      "density_rank_percentile": 0.23
+    },
+    {
+      "level": 2,
+      "id": "2_93",
+      "label": "クラスタリングの柔軟性と品質向上",
+      "takeaway": "クラスタリング手法におけるしきい値設定の固定化による柔軟性の欠如、embeddingの品質に依存するクラスタリングの結果の改善必要性、及びクラスタリング結果の妥当性を検証する手段の不足に関する問題意識を示している。",
+      "value": 6,
+      "parent": "1_4",
+      "density_rank_percentile": 0.56
+    },
+    {
+      "level": 2,
+      "id": "2_30",
+      "label": "個人情報管理の改善",
+      "takeaway": "個人情報の検出・除去に関する自動化機能の必要性や精度向上、プロンプトの改善に関する問題意識を示している。",
+      "value": 6,
+      "parent": "1_7",
+      "density_rank_percentile": 0.32
+    },
+    {
+      "level": 2,
+      "id": "2_35",
+      "label": "情報の信頼性と機能検証",
+      "takeaway": "偽情報の判定基準が不明確であることから、情報の信頼性に関する問題意識が示されており、またデータインポート機能のテストやプロダクトへの機能実装に向けた検証が求められていることから、機能の正確性や信頼性の確保に関する問題意識も含まれている。",
+      "value": 6,
+      "parent": "1_8",
+      "density_rank_percentile": 0.91
+    },
+    {
+      "level": 2,
+      "id": "2_29",
+      "label": "機能改善要求",
+      "takeaway": "ユーザーがタイムアウト時間を変更できる機能が不足していることに対する改善要求。",
+      "value": 6,
+      "parent": "1_9",
+      "density_rank_percentile": 0.99
+    },
+    {
+      "level": 2,
+      "id": "2_40",
+      "label": "UI/UXの問題",
+      "takeaway": "ユーザーインターフェースやユーザーエクスペリエンスに関連する問題で、特に情報の更新や表示の安定性に関する課題が含まれています。",
+      "value": 6,
+      "parent": "1_2",
+      "density_rank_percentile": 0.93
+    },
+    {
+      "level": 2,
+      "id": "2_34",
+      "label": "コード品質とエラー処理の改善",
+      "takeaway": "クライアントコードにおけるLintエラーの解消、入力漏れによるエラー防止策、エラー処理のテストの充実が求められている問題意識を反映したラベル。",
+      "value": 5,
+      "parent": "1_10",
+      "density_rank_percentile": 0.59
+    },
+    {
+      "level": 2,
+      "id": "2_32",
+      "label": "セキュリティと可読性の問題",
+      "takeaway": "記号の使用に関する安全性や使いやすさ、管理画面のセキュリティ強化、コードの可読性と保守性の低下に関する問題意識を示している。",
+      "value": 5,
+      "parent": "1_10",
+      "density_rank_percentile": 0.89
+    },
+    {
+      "level": 2,
+      "id": "2_95",
+      "label": "APIキー管理の問題",
+      "takeaway": "ユーザーが入力したAPIキーの有効性を確認できないことや、APIの利用状況を確認する機能が未整備であることに関連する問題意識を示している。",
+      "value": 5,
+      "parent": "1_10",
+      "density_rank_percentile": 0.16
+    },
+    {
+      "level": 2,
+      "id": "2_98",
+      "label": "レポート管理の効率化とセキュリティ強化",
+      "takeaway": "管理画面でのレポート操作の効率が低いこと、レポートの説得力を高めるためのデータの紐づけが求められていること、個別レポートのセキュリティ強化が必要であるという問題意識を反映したラベルです。",
+      "value": 5,
+      "parent": "1_1",
+      "density_rank_percentile": 0.52
+    },
+    {
+      "level": 2,
+      "id": "2_67",
+      "label": "データセキュリティとフォーマット改善",
+      "takeaway": "個人情報の漏洩リスクに関する懸念と、CSVフォーマットのエラーに対する情報不足、さらにCSVからの自動生成機能の必要性を示す問題意識を含む。",
+      "value": 5,
+      "parent": "1_7",
+      "density_rank_percentile": 0.8
+    },
+    {
+      "level": 2,
+      "id": "2_71",
+      "label": "テスト環境の整備",
+      "takeaway": "動作確認やデモ環境の整備、実行環境のデータがテストに与える影響、開発者がローカルで簡単にテストを実行できる環境の必要性に関する問題意識を示している。",
+      "value": 5,
+      "parent": "1_8",
+      "density_rank_percentile": 0.39
+    },
+    {
+      "level": 2,
+      "id": "2_85",
+      "label": "情報提供とツール導入の必要性",
+      "takeaway": "自治体向けに適切なPCの提案ができていないこと、ツールの利用状況を広報活動や開発に活用するための情報が不足していること、そしてStorybookなどのカタログ化ツールの導入が必要であるという問題意識を反映したラベルです。",
+      "value": 5,
+      "parent": "1_4",
+      "density_rank_percentile": 0.62
+    },
+    {
+      "level": 2,
+      "id": "2_26",
+      "label": "テストの網羅性と品質",
+      "takeaway": "AI詳細設定や管理画面のe2eテスト、入力バリデーションに関するテストの網羅性や品質の向上が求められている問題意識を示している。",
+      "value": 5,
+      "parent": "1_8",
+      "density_rank_percentile": 0.73
+    },
+    {
+      "level": 2,
+      "id": "2_74",
+      "label": "開発プロセスの改善",
+      "takeaway": "開発プロセスの効率向上、トランザクション管理や競合管理の改善、開発者の負担軽減と品質向上に関する問題意識を示している。",
+      "value": 5,
+      "parent": "1_3",
+      "density_rank_percentile": 0.84
+    },
+    {
+      "level": 2,
+      "id": "2_53",
+      "label": "データ処理の効率化",
+      "takeaway": "CSVデータの変換処理やバックエンドでのデータ処理方法の改善、レビュー時の判断基準の明確化を通じて、全体的な作業効率を向上させる必要性を示している。",
+      "value": 5,
+      "parent": "1_7",
+      "density_rank_percentile": 0.75
+    },
+    {
+      "level": 2,
+      "id": "2_91",
+      "label": "視覚的一貫性の欠如",
+      "takeaway": "全体図と階層図の視覚的一貫性が欠けていること、階層図の情報量が多すぎること、説明文とグラフ内容の不一致がユーザーの理解を妨げている問題を示す。",
+      "value": 5,
+      "parent": "1_2",
+      "density_rank_percentile": 0.19
+    },
+    {
+      "level": 2,
+      "id": "2_3",
+      "label": "出力改善と品質管理",
+      "takeaway": "出力フォーマットの変更に伴い、周辺実装の見直しや不適切な表現の修正、出力の収集と改善に関する問題意識を示している。",
+      "value": 5,
+      "parent": "1_8",
+      "density_rank_percentile": 0.78
+    },
+    {
+      "level": 2,
+      "id": "2_55",
+      "label": "クラスタリングアルゴリズムの限界",
+      "takeaway": "既存の階層クラスタリングアルゴリズムが小規模データに対して効果的でないこと、タイトル生成においてクラスタ間の差異を適切に反映できていないこと、チャート表示とクラスター文章の連動性が欠如していることに関する問題意識を示している。",
+      "value": 5,
+      "parent": "1_4",
+      "density_rank_percentile": 0.2
+    },
+    {
+      "level": 2,
+      "id": "2_86",
+      "label": "データ処理と効率化",
+      "takeaway": "ファクトチェックやグラウンディング処理におけるデータ量の多さが通信やメモリ使用に影響を与えるため、共通処理や効率的なデータ管理が求められている。",
+      "value": 5,
+      "parent": "1_8",
+      "density_rank_percentile": 0.85
+    },
+    {
+      "level": 2,
+      "id": "2_75",
+      "label": "環境検証機能の不足",
+      "takeaway": "ユーザーのニーズに応じた環境検証機能が不足しており、エンジニア以外の関係者が機能確認を行うための環境も整っていない。また、biomeの動作不良が開発プロセスに悪影響を及ぼしている。",
+      "value": 4,
+      "parent": "1_7",
+      "density_rank_percentile": 0.9
+    },
+    {
+      "level": 2,
+      "id": "2_23",
+      "label": "UIツールの必要性",
+      "takeaway": "UIパターンを効率的に確認するための信頼性の高いツールが不足しており、準備工数に対する認識のギャップが存在することから、UIツールの必要性が強調されている。",
+      "value": 4,
+      "parent": "1_4",
+      "density_rank_percentile": 0.92
+    },
+    {
+      "level": 2,
+      "id": "2_84",
+      "label": "レポートの公開設定とバックアップ問題",
+      "takeaway": "公開状態のレポートがない場合に静的ファイル出力ができないこと、デフォルトで公開設定になっているための意図しない公開リスク、及び「限定公開」「非公開」状態のレポートがバックアップできない問題を含む。",
+      "value": 4,
+      "parent": "1_1",
+      "density_rank_percentile": 0.57
+    },
+    {
+      "level": 2,
+      "id": "2_14",
+      "label": "自動化の問題",
+      "takeaway": "マージ時の自動デプロイ機能やコメントの真偽確認機能、不要なIssueの整理機能など、自動化に関する問題意識が含まれている。",
+      "value": 4,
+      "parent": "1_7",
+      "density_rank_percentile": 0.24
+    },
+    {
+      "level": 2,
+      "id": "2_82",
+      "label": "意見管理システムの改善",
+      "takeaway": "意見を効果的に分類し、根拠を参照できる仕組みを整える必要性を示している。",
+      "value": 4,
+      "parent": "1_3",
+      "density_rank_percentile": 0.41
+    },
+    {
+      "level": 2,
+      "id": "2_73",
+      "label": "レポート生成の効率化",
+      "takeaway": "レポート生成に関するプロセスの煩雑さや時間のかかり具合、複数レポートの一括編集機能の不足、完成時の通知機能の必要性に関する問題意識を示している。",
+      "value": 4,
+      "parent": "1_1",
+      "density_rank_percentile": 0.28
+    },
+    {
+      "level": 2,
+      "id": "2_16",
+      "label": "技術的選択肢の検討",
+      "takeaway": "Geminiを利用したレポート生成の機会が不足しているため、代替手段としてRancherやPodmanの利用を検討する必要がある。また、Geminiの代替手段としての利用方法も考慮する必要がある。",
+      "value": 4,
+      "parent": "1_4",
+      "density_rank_percentile": 0.94
+    },
+    {
+      "level": 2,
+      "id": "2_15",
+      "label": "レポート管理の再検討",
+      "takeaway": "レポートの出力形式やバックアップ方法に関する見直しが必要であることを示している。",
+      "value": 4,
+      "parent": "1_1",
+      "density_rank_percentile": 0.64
+    },
+    {
+      "level": 2,
+      "id": "2_81",
+      "label": "データ品質の向上",
+      "takeaway": "データの一貫性と整合性を向上させる必要があるという問題意識があり、整合性が保たれていないことによるリンク情報の消失や生データの解釈の正確性の低下が懸念されている。",
+      "value": 4,
+      "parent": "1_8",
+      "density_rank_percentile": 0.35
+    },
+    {
+      "level": 2,
+      "id": "2_51",
+      "label": "APIの使いやすさ",
+      "takeaway": "APIのパラメータの複雑さやエラーハンドリングの一貫性の欠如が、ユーザーにとっての利用障壁となる問題を示している。",
+      "value": 4,
+      "parent": "1_9",
+      "density_rank_percentile": 0.72
+    },
+    {
+      "level": 2,
+      "id": "2_59",
+      "label": "アルゴリズム比較と評価",
+      "takeaway": "異なるアプローチや手法の効果を比較し、特にbonsaiアルゴリズムや次元圧縮手法がデータに与える影響を評価することに関する問題意識を示している。",
+      "value": 4,
+      "parent": "1_8",
+      "density_rank_percentile": 1.0
+    },
+    {
+      "level": 2,
+      "id": "2_8",
+      "label": "モデル評価と選択",
+      "takeaway": "異なるプロバイダーのモデル性能を考慮し、シルエットスコアを用いた評価や日本語特化の埋め込みモデルの性能評価が求められていることから、モデル評価と選択に関する問題意識が示されている。",
+      "value": 4,
+      "parent": "1_4",
+      "density_rank_percentile": 0.53
+    },
+    {
+      "level": 2,
+      "id": "2_99",
+      "label": "埋め込みモデルの評価と改善",
+      "takeaway": "埋め込みモデルの交換可能性や改善点を検討し、ホスティング方法の選択肢を考慮する必要がある問題意識を示す。",
+      "value": 4,
+      "parent": "1_4",
+      "density_rank_percentile": 0.47
+    },
+    {
+      "level": 2,
+      "id": "2_62",
+      "label": "役割整理とタスク優先順位の明確化",
+      "takeaway": "募集する役割の整理が不十分であり、タスクの優先付けに対する貢献の仕方が不明瞭であるため、ウェルカムミーティングでの役割募集の具体化が必要であるという問題意識を示している。",
+      "value": 4,
+      "parent": "1_4",
+      "density_rank_percentile": 0.77
+    },
+    {
+      "level": 2,
+      "id": "2_6",
+      "label": "UMAPの結果の一貫性",
+      "takeaway": "UMAPの入力データの順序が変わることで、結果が毎回異なり、ユーザーの解釈が難しくなっている問題を指摘している。また、過去のレポートと同一のUMAPを使用することで、時系列の傾向を比較しやすくする必要性が述べられている。",
+      "value": 4,
+      "parent": "1_1",
+      "density_rank_percentile": 0.21
+    },
+    {
+      "level": 2,
+      "id": "2_52",
+      "label": "コードレビューの効率化",
+      "takeaway": "コードレビューのプロセスを改善し、PRレビューが開発のボトルネックとならないようにするための自動評価機能の実装が求められている問題意識を示している。",
+      "value": 4,
+      "parent": "1_7",
+      "density_rank_percentile": 0.63
+    },
+    {
+      "level": 2,
+      "id": "2_1",
+      "label": "静的HTMLファイルの共有と独立性の問題",
+      "takeaway": "静的エクスポートしたHTMLファイルを閲覧するためにWebサーバーが必要であり、これが共有を困難にしている。また、静的HTMLファイルの独立性が不足しており、ローカルファイルシステムからの読み込み時にエラー表示が不足していることが問題視されている。",
+      "value": 4,
+      "parent": "1_10",
+      "density_rank_percentile": 0.43
+    },
+    {
+      "level": 2,
+      "id": "2_27",
+      "label": "システムの安定性とユーザビリティの問題",
+      "takeaway": "タイムアウトによる処理の中断や禁則処理の未考慮、表示状態のリセットに関する問題意識が含まれており、システムの安定性やユーザビリティに対する懸念が示されています。",
+      "value": 4,
+      "parent": "1_9",
+      "density_rank_percentile": 0.66
+    },
+    {
+      "level": 2,
+      "id": "2_79",
+      "label": "テストの安定性と持続可能性",
+      "takeaway": "テストの実施において、安定性や持続可能性を確保することの重要性、前提条件の整備、実装上の注意点についての問題意識を示している。",
+      "value": 4,
+      "parent": "1_8",
+      "density_rank_percentile": 0.07
+    },
+    {
+      "level": 2,
+      "id": "2_44",
+      "label": "ドキュメント管理の改善",
+      "takeaway": "編集内容を反映するためのインターフェースが不足していることから、ドキュメントの変更内容を記載し、公開前のチェックリストとして機能させる必要がある。また、編集履歴の管理と透明性の確保が重要であることを示している。",
+      "value": 4,
+      "parent": "1_1",
+      "density_rank_percentile": 0.95
+    },
+    {
+      "level": 2,
+      "id": "2_39",
+      "label": "情報参照と品質管理",
+      "takeaway": "AIによる要約機能に加え、元コメントを参照できる機能の必要性や、意見抽出の品質管理、引用元の規約に配慮した表示の重要性についての問題意識を示している。",
+      "value": 4,
+      "parent": "1_3",
+      "density_rank_percentile": 0.26
+    },
+    {
+      "level": 2,
+      "id": "2_87",
+      "label": "ユーザーインターフェースとエラーハンドリングの問題",
+      "takeaway": "ユーザーが意図した通りにコマンドが解釈されないことや、クライアントサイドの表示方法の変更が機能移植の障害となっていること、さらにログ出力の情報が不明瞭で問題解決に役立たないことは、ユーザーインターフェースやエラーハンドリングに関連する問題を示している。",
+      "value": 4,
+      "parent": "1_9",
+      "density_rank_percentile": 0.42
+    },
+    {
+      "level": 2,
+      "id": "2_72",
+      "label": "技術的負債と保守性の問題",
+      "takeaway": "技術的負債の蓄積や依存関係の管理不足が原因で、コードのメンテナンス性や保守性が低下していることを示す問題意識。また、環境検証ページの対応がChatGPTのみに限られていることから、選択肢の制約も影響している。",
+      "value": 3,
+      "parent": "1_7",
+      "density_rank_percentile": 0.81
+    },
+    {
+      "level": 2,
+      "id": "2_64",
+      "label": "環境変数の設定問題",
+      "takeaway": "環境変数の設定が不完全であり、未定義の環境変数に関する警告が出ることが問題である。また、環境変数の設定や隠しファイルの扱いに関する情報が不足している。",
+      "value": 3,
+      "parent": "1_6",
+      "density_rank_percentile": 0.61
+    },
+    {
+      "level": 2,
+      "id": "2_69",
+      "label": "データ分析とユーザー信頼性の向上",
+      "takeaway": "コスト見積もり機能の不足やデータ分析に関する前提知識の不足、利用者行動の分析のためのデータ収集の必要性が示されており、これらはユーザーが安心してサービスを利用するための信頼性向上に関連している。",
+      "value": 3,
+      "parent": "1_9",
+      "density_rank_percentile": 0.76
+    },
+    {
+      "level": 2,
+      "id": "2_48",
+      "label": "データ分析の信頼性と効率性",
+      "takeaway": "データ分析ツールに関する誤解や非効率な分析手法、同一データに対する結果の不一致といった問題意識を反映している。",
+      "value": 3,
+      "parent": "1_8",
+      "density_rank_percentile": 0.71
+    },
+    {
+      "level": 2,
+      "id": "2_2",
+      "label": "情報の明確化と分別",
+      "takeaway": "用語の意味や背景、利用規約に基づく情報表示の明確化、及び有権者向けと内部利用向けの情報提供の方針を明確に分ける必要性に関する問題意識を示している。",
+      "value": 3,
+      "parent": "1_2",
+      "density_rank_percentile": 0.12
+    },
+    {
+      "level": 2,
+      "id": "2_56",
+      "label": "アプリケーションのエラー処理と正常動作",
+      "takeaway": "リモート環境でのHTTPアクセス時のJavaScriptエラー、APIキーやクレジット不足時のエラー処理の不備、画像URL生成ロジックの不具合に関する問題意識を示している。これらはアプリケーションの正常な動作を妨げる要因であり、エラー処理やロジックの見直しが必要である。",
+      "value": 3,
+      "parent": "1_10",
+      "density_rank_percentile": 0.87
+    },
+    {
+      "level": 2,
+      "id": "2_63",
+      "label": "Azureデプロイメント問題",
+      "takeaway": "DD2030のAzure環境へのデプロイが失敗している原因として、必要なAzure関連モジュールがrequirements.txtに含まれていないことや、Azure環境の設定や認証に関する問題が挙げられる。",
+      "value": 3,
+      "parent": "1_6",
+      "density_rank_percentile": 0.27
+    },
+    {
+      "level": 2,
+      "id": "2_77",
+      "label": "システム改善",
+      "takeaway": "API接続チェック機能の改善、中間ファイルのCSV管理によるデータ不整合のリスク、GitHub Actionsを活用した自動化の実現に関する問題意識を示している。",
+      "value": 3,
+      "parent": "1_7",
+      "density_rank_percentile": 0.09
+    },
+    {
+      "level": 2,
+      "id": "2_22",
+      "label": "APIキー管理の課題",
+      "takeaway": "APIキーの漏洩リスクや統合管理の不十分さ、開発者がAPIキーなしで開発できる環境の必要性に関する問題意識を示している。",
+      "value": 3,
+      "parent": "1_10",
+      "density_rank_percentile": 0.1
+    },
+    {
+      "level": 2,
+      "id": "2_60",
+      "label": "システム最適化",
+      "takeaway": "バッチ処理の導入やリファクタリングの必要性を通じて、システムの効率や安定性を向上させることに関する問題意識を示している。",
+      "value": 3,
+      "parent": "1_8",
+      "density_rank_percentile": 0.69
+    },
+    {
+      "level": 2,
+      "id": "2_66",
+      "label": "ガイドラインの整備",
+      "takeaway": "ユーザーがプロンプトを調整できるためのガイドラインや、デジタル庁に基づく改善、妥協点に関するガイドラインの不足が問題意識として挙げられている。",
+      "value": 3,
+      "parent": "1_3",
+      "density_rank_percentile": 0.3
+    },
+    {
+      "level": 2,
+      "id": "2_42",
+      "label": "ユーザーインターフェースの不一致",
+      "takeaway": "ユーザーインターフェースが実際の処理内容やリソースの状態と一致していないため、ユーザーに誤解を与えたり、意図しない動作を引き起こす可能性がある問題を指摘している。",
+      "value": 3,
+      "parent": "1_9",
+      "density_rank_percentile": 0.13
+    },
+    {
+      "level": 2,
+      "id": "2_38",
+      "label": "モデル選択の最適化",
+      "takeaway": "ユーザーが最適なモデルを選択できるようにするための機能が必要であり、現在のエンベデッドモデルの選択肢が不足していることや、選択肢の設定が不明確であることが問題意識として挙げられている。",
+      "value": 3,
+      "parent": "1_4",
+      "density_rank_percentile": 0.08
+    },
+    {
+      "level": 2,
+      "id": "2_92",
+      "label": "システム機能の不足",
+      "takeaway": "システムの稼働状況確認機能や将来的な機能拡張への配慮が不足しており、過去の機能が現在のシステムに適用されていないという問題意識を示している。",
+      "value": 3,
+      "parent": "1_7",
+      "density_rank_percentile": 0.15
+    },
+    {
+      "level": 2,
+      "id": "2_45",
+      "label": "導入ハードル",
+      "takeaway": "非エンジニアやITスキルに不安のあるユーザー、特に自治体ユーザーにとってAI導入のハードルが高く、またAI導入による文化的な摩擦が懸念されていることを示す問題意識。",
+      "value": 3,
+      "parent": "1_10",
+      "density_rank_percentile": 0.82
+    },
+    {
+      "level": 2,
+      "id": "2_97",
+      "label": "エラーログ管理の課題",
+      "takeaway": "エラーログの確認が難しいこと、機微情報の取り扱いに対する懸念、エラーケースに対するテスト不足が問題として挙げられている。",
+      "value": 3,
+      "parent": "1_9",
+      "density_rank_percentile": 0.54
+    },
+    {
+      "level": 2,
+      "id": "2_89",
+      "label": "公正な意見収集の改善",
+      "takeaway": "公式文書に基づく回答の実現を目指し、パブリックコメントの同一内容の大量投稿という問題を解決するために、アルゴリズムの改善が求められている。",
+      "value": 3,
+      "parent": "1_3",
+      "density_rank_percentile": 0.86
+    },
+    {
+      "level": 2,
+      "id": "2_90",
+      "label": "情報提供の改善",
+      "takeaway": "専門用語の解説不足や情報表示の効率性、同義語への対応の不十分さに関する問題意識を反映したラベル。",
+      "value": 3,
+      "parent": "1_2",
+      "density_rank_percentile": 0.36
+    },
+    {
+      "level": 2,
+      "id": "2_54",
+      "label": "ユーザーインターフェースの改善",
+      "takeaway": "設定画面のユーザーインターフェースに関する問題意識があり、特に戻るボタンの欠如やズーム機能の操作性の不十分さが指摘されている。これらはユーザーの操作を煩雑にし、使いにくさを引き起こしているため、改善が求められている。",
+      "value": 3,
+      "parent": "1_2",
+      "density_rank_percentile": 0.46
+    },
+    {
+      "level": 2,
+      "id": "2_21",
+      "label": "階層図の情報提供と理解の問題",
+      "takeaway": "階層図に関する情報提供が不十分であり、命名規則が不明確であるため、ユーザーがその構造を理解しにくいという問題意識を示している。",
+      "value": 3,
+      "parent": "1_2",
+      "density_rank_percentile": 0.17
+    },
+    {
+      "level": 2,
+      "id": "2_9",
+      "label": "データ管理と検証の重要性",
+      "takeaway": "実験に必要なデータ形式が不足していること、実装前の検証の重要性、実験結果の確認プロセスが未整備であることから、データ管理と検証の重要性に関する問題意識が示されている。",
+      "value": 3,
+      "parent": "1_8",
+      "density_rank_percentile": 0.7
+    },
+    {
+      "level": 2,
+      "id": "2_19",
+      "label": "ユーザーサポートの改善",
+      "takeaway": "エラー発生時にユーザーに対する情報提供が不足しており、特にエラー解決のための情報が不十分であることが問題視されている。また、ユーザーが静的ファイルのホスティング方法を理解できていないことも含まれており、全体的にユーザーサポートの向上が求められている。",
+      "value": 3,
+      "parent": "1_9",
+      "density_rank_percentile": 0.49
+    },
+    {
+      "level": 2,
+      "id": "2_70",
+      "label": "情報の可視化と理解促進",
+      "takeaway": "情報量を増やすための原文表示機能、用語解説ページの必要性、フィルタ機能による情報の可視化向上に関する問題意識を示している。",
+      "value": 3,
+      "parent": "1_2",
+      "density_rank_percentile": 0.51
+    },
+    {
+      "level": 2,
+      "id": "2_41",
+      "label": "アスペクト比管理",
+      "takeaway": "出力結果のアスペクト比に関する問題意識を示しており、表示の見やすさと理想的なアスペクト比のバランスを取る必要性が強調されている。",
+      "value": 3,
+      "parent": "1_8",
+      "density_rank_percentile": 0.58
+    },
+    {
+      "level": 2,
+      "id": "2_94",
+      "label": "依存関係管理の問題",
+      "takeaway": "package.jsonの依存関係が適切に管理されていないことや、OS依存の問題が解決されていないことに関する問題意識を示している。",
+      "value": 2,
+      "parent": "1_6",
+      "density_rank_percentile": 0.11
+    },
+    {
+      "level": 2,
+      "id": "2_25",
+      "label": "依存パッケージのメンテナンス問題",
+      "takeaway": "ts-node-devのメンテナンスが行われていないため、代替パッケージへの移行が必要であり、依存しているパッケージのメンテナンス状況がプロジェクトの安定性に影響を与える可能性があることを示している。",
+      "value": 2,
+      "parent": "1_7",
+      "density_rank_percentile": 0.05
+    },
+    {
+      "level": 2,
+      "id": "2_61",
+      "label": "エラー原因特定の困難さ",
+      "takeaway": "ユーザーがエラーの原因を特定できない、または特定するのに時間がかかる状況に関する問題意識を示している。",
+      "value": 2,
+      "parent": "1_9",
+      "density_rank_percentile": 0.04
+    },
+    {
+      "level": 2,
+      "id": "2_83",
+      "label": "UIデザインの効率化",
+      "takeaway": "データの有無に応じたUIパターンの確認が手間であり、デザイナーがUIを確認する際にデータの操作が必要で不便であるという問題意識を反映している。",
+      "value": 2,
+      "parent": "1_3",
+      "density_rank_percentile": 0.44
+    },
+    {
+      "level": 2,
+      "id": "2_11",
+      "label": "エラー処理の改善",
+      "takeaway": "システムやアプリケーションにおけるエラー表示の改善と、エラー発生時の原因特定および解決に関する問題意識を示している。",
+      "value": 2,
+      "parent": "1_9",
+      "density_rank_percentile": 0.68
+    },
+    {
+      "level": 2,
+      "id": "2_65",
+      "label": "UX改善",
+      "takeaway": "グラフとその説明文の整合性を高め、ユーザーエクスペリエンスを向上させるための提案。特に、グラフホバー時に表示される解説を充実させることが重要である。",
+      "value": 2,
+      "parent": "1_2",
+      "density_rank_percentile": 0.98
+    },
+    {
+      "level": 2,
+      "id": "2_24",
+      "label": "情報公開の必要性",
+      "takeaway": "エネルギー庁のパブリックコメントに関する分析結果を適切に公開することの重要性を示している。",
+      "value": 2,
+      "parent": "1_3",
+      "density_rank_percentile": 0.96
+    },
+    {
+      "level": 2,
+      "id": "2_68",
+      "label": "リクルーティング資料の改善",
+      "takeaway": "リクルーティング資料の内容を充実させるために、フィルタリング機能を用いてデータの要約や比較を行う必要があるという問題意識を示している。",
+      "value": 2,
+      "parent": "1_2",
+      "density_rank_percentile": 0.34
+    },
+    {
+      "level": 2,
+      "id": "2_58",
+      "label": "ワークフロー管理",
+      "takeaway": "管理画面のワークフローの正常性確認と、Cold Listに残るIssueの管理不足に関する問題意識を示している。",
+      "value": 2,
+      "parent": "1_7",
+      "density_rank_percentile": 0.37
+    },
+    {
+      "level": 2,
+      "id": "2_88",
+      "label": "エラーハンドリングの不備",
+      "takeaway": "Out of Memoryエラーやネットワークエラーに対する処理が不十分または不適切であることを示す問題意識。",
+      "value": 2,
+      "parent": "1_10",
+      "density_rank_percentile": 0.4
+    },
+    {
+      "level": 2,
+      "id": "2_96",
+      "label": "ユーザー体験の改善",
+      "takeaway": "CSVアップロードに関するコストや操作方法に対するユーザーの不安を解消するため、UI/UXの改善が求められている。",
+      "value": 2,
+      "parent": "1_9",
+      "density_rank_percentile": 0.18
+    },
+    {
+      "level": 2,
+      "id": "2_37",
+      "label": "ホスティングの敷居の高さ",
+      "takeaway": "ホスティングを利用する際に必要な専門知識の不足や、具体的な手順を示すマニュアルの欠如によって、利用が難しいと感じる問題意識を表している。",
+      "value": 2,
+      "parent": "1_4",
+      "density_rank_percentile": 0.06
+    },
+    {
+      "level": 2,
+      "id": "2_47",
+      "label": "処理効率の向上",
+      "takeaway": "複数のコメントを同時に処理することで、全体の処理速度を向上させる必要性と、事前に回答案を記入することで効率化を図る意識が表れている。",
+      "value": 2,
+      "parent": "1_3",
+      "density_rank_percentile": 0.25
+    },
+    {
+      "level": 2,
+      "id": "2_49",
+      "label": "Azureバックアップ機能の問題",
+      "takeaway": "Azure環境におけるレポートバックアップ機能の不完全さに関する問題意識を示している。",
+      "value": 1,
+      "parent": "1_1",
+      "density_rank_percentile": 0.01
+    },
+    {
+      "level": 2,
+      "id": "2_50",
+      "label": "ビジネス影響",
+      "takeaway": "ChatGPTの政治利用に関する制約が、企業のマーケティングやコミュニケーション戦略に影響を及ぼす可能性があることを示唆している。",
+      "value": 1,
+      "parent": "1_10",
+      "density_rank_percentile": 0.02
+    },
+    {
+      "level": 2,
+      "id": "2_78",
+      "label": "パラメータ処理の問題",
+      "takeaway": "コマンド実行時におけるパラメータ処理において、特殊文字が適切に扱われていないことに関する問題意識を示している。",
+      "value": 1,
+      "parent": "1_10",
+      "density_rank_percentile": 0.03
+    }
+  ],
+  "config": {
+    "name": "GitHub Issues Analysis with Hierarchy",
+    "question": "広聴AIプロジェクトのGitHub Issuesに含まれる課題や改善点について",
+    "input": "github-issues-analysis",
+    "model": "gpt-4o-mini",
+    "provider": "openai",
+    "is_embedded_at_local": false,
+    "extraction": {
+      "workers": 3,
+      "limit": 500,
+      "model": "gpt-4o-mini",
+      "prompt": "GitHub Issuesから問題意識を抽出",
+      "source_code": "extraction step source code"
+    },
+    "embedding": {
+      "model": "text-embedding-3-small",
+      "source_code": "embedding step source code"
+    },
+    "hierarchical_clustering": {
+      "cluster_nums": [
+        10,
+        100
+      ],
+      "source_code": "hierarchical clustering source code"
+    },
+    "hierarchical_initial_labelling": {
+      "prompt": "以下のクラスタに含まれる問題意識を分析し、適切なラベルを付けてください。",
+      "sampling_num": 30,
+      "workers": 3,
+      "model": "gpt-4o-mini",
+      "source_code": "initial labelling source code"
+    },
+    "hierarchical_merge_labelling": {
+      "prompt": "以下のクラスタの内容を分析し、上位概念として適切なラベルと説明を作成してください。",
+      "sampling_num": 50,
+      "workers": 3,
+      "model": "gpt-4o-mini",
+      "source_code": "merge labelling source code"
+    },
+    "hierarchical_overview": {
+      "prompt": "GitHub Issuesの分析結果から、全体的な傾向と重要な課題を要約してください。",
+      "model": "gpt-4o-mini",
+      "source_code": "overview source code"
+    },
+    "hierarchical_aggregation": {
+      "hidden_properties": {},
+      "source_code": "aggregation source code"
+    },
+    "hierarchical_visualization": {
+      "source_code": "visualization source code"
+    },
+    "intro": "このレポートは、広聴AIプロジェクトのGitHub Issuesを分析した結果です。",
+    "enable_source_link": true,
+    "plan": [
+      {
+        "step": "extraction"
+      },
+      {
+        "step": "embedding"
+      },
+      {
+        "step": "hierarchical_clustering"
+      },
+      {
+        "step": "hierarchical_initial_labelling"
+      },
+      {
+        "step": "hierarchical_merge_labelling"
+      },
+      {
+        "step": "hierarchical_overview"
+      },
+      {
+        "step": "hierarchical_aggregation"
+      },
+      {
+        "step": "hierarchical_visualization"
+      }
+    ]
+  },
+  "comment_num": 454,
+  "total_token_usage": 46301
+}
